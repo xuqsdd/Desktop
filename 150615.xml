@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="学术" text="学术">
+      <outline text="History of Psychology - Vol 18, Iss 1" title="History of Psychology - Vol 18, Iss 1" type="rss" 
+            xmlUrl="http://content.apa.org/journals/hop.rss" htmlUrl="http://psycnet.apa.org/journals/hop"/>
+      <outline text="Annual Reviews: Annual Review of Psychology: Table of Contents" title="Annual Reviews: Annual Review of Psychology: Table of Contents" type="rss" 
+            xmlUrl="http://www.annualreviews.org/action/showFeed?ui=0&amp;mi=7273xo&amp;ai=s1&amp;jc=psych&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/psych?ai=s1&amp;mi=7273xo&amp;af=R"/>
+      <outline text="ScienceDirect Publication: Developmental Review" title="ScienceDirect Publication: Developmental Review" type="rss" 
+            xmlUrl="http://rss.sciencedirect.com/publication/science/02732297" htmlUrl="http://www.sciencedirect.com"/>
+      <outline text="Annual Reviews: Annual Review of Clinical Psychology: Table of Contents" title="Annual Reviews: Annual Review of Clinical Psychology: Table of Contents" type="rss" 
+            xmlUrl="http://www.annualreviews.org/action/showFeed?ui=0&amp;mi=7273xo&amp;ai=18f&amp;jc=clinpsy&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/clinpsy?ai=18f&amp;mi=7273xo&amp;af=R"/>
+      <outline text="Developmental Psychology - Vol 51, Iss 6" title="Developmental Psychology - Vol 51, Iss 6" type="rss" 
+            xmlUrl="http://content.apa.org/journals/dev.rss" htmlUrl="http://psycnet.apa.org/journals/dev"/>
+      <outline text="American Psychologist - Vol 70, Iss 4" title="American Psychologist - Vol 70, Iss 4" type="rss" 
+            xmlUrl="http://content.apa.org/journals/amp.rss" htmlUrl="http://psycnet.apa.org/journals/amp"/>
+      <outline text="Psychological Review - Vol 122, Iss 2" title="Psychological Review - Vol 122, Iss 2" type="rss" 
+            xmlUrl="http://content.apa.org/journals/rev.rss" htmlUrl="http://psycnet.apa.org/journals/rev"/>
+      <outline text="Psychological Methods - Vol 20, Iss 2" title="Psychological Methods - Vol 20, Iss 2" type="rss" 
+            xmlUrl="http://content.apa.org/journals/met.rss" htmlUrl="http://psycnet.apa.org/journals/met"/>
+      <outline text="Child Development" title="Child Development" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1467-8624" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291467-8624"/>
+      <outline text="Comments on: Publications" title="Comments on: Publications" type="rss" 
+            xmlUrl="http://carleton.ca/cmi/publications/feed/" htmlUrl="http://carleton.ca/cmi"/>
+      <outline text="Child Language and Literacy Research Lab" title="Child Language and Literacy Research Lab" type="rss" 
+            xmlUrl="https://labosenechal.wordpress.com/feed/" htmlUrl="https://labosenechal.wordpress.com"/>
+      <outline text="American Educational Research Journal current issue" title="American Educational Research Journal current issue" type="rss" 
+            xmlUrl="http://aer.sagepub.com/rss/current.xml" htmlUrl="http://aer.sagepub.com"/>
+      <outline text="Psychological Bulletin - Vol 141, Iss 3" title="Psychological Bulletin - Vol 141, Iss 3" type="rss" 
+            xmlUrl="http://content.apa.org/journals/bul.rss" htmlUrl="http://psycnet.apa.org/journals/bul"/>
+  </outline>
+  <outline title="童书" text="童书">
+      <outline text="早教 - Google 新闻" title="早教 - Google 新闻" type="rss" 
+            xmlUrl="https://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=zh-CN&amp;tab=wn&amp;;;ned=ccn&amp;as_drrb=q&amp;as_qdr&amp;as_minm=3&amp;as_mind=30&amp;as_maxm=4&amp;as_maxd=29&amp;aq=f&amp;q=早教&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=cn&amp;hl=zh-CN&amp;q=%5Cx26%2326089;%5Cx26%2325945;"/>
+      <outline text="漆仰平" title="漆仰平" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1498453567.xml" htmlUrl="http://blog.sina.com.cn/u/1498453567"/>
+      <outline text="嘟豆卖童书" title="嘟豆卖童书" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1943152862.xml" htmlUrl="http://blog.sina.com.cn/dodoobook"/>
+      <outline text="爱心树童书" title="爱心树童书" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1726915750.xml" htmlUrl="http://blog.sina.com.cn/aixinshuhb"/>
+      <outline text="国图少儿馆的博客" title="国图少儿馆的博客" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1749907825.xml" htmlUrl="http://blog.sina.com.cn/u/1749907825"/>
+      <outline text="尚童· 童书" title="尚童· 童书" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/2723141327.xml" htmlUrl="http://blog.sina.com.cn/aitongtongshu"/>
+      <outline text="有儿有女的幸福--慢养育" title="有儿有女的幸福--慢养育" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1400434093.xml" htmlUrl="http://blog.sina.com.cn/yimanerkan"/>
+      <outline text="正面管教之家" title="正面管教之家" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/3855814610.xml" htmlUrl="http://blog.sina.com.cn/happypdhome"/>
+      <outline text="和英童书" title="和英童书" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/2260633415.xml" htmlUrl="http://blog.sina.com.cn/heryinbooks"/>
+      <outline text="图书编辑张红艳" title="图书编辑张红艳" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/2571146410.xml" htmlUrl="http://blog.sina.com.cn/u/2571146410"/>
+      <outline text="杜廼芳" title="杜廼芳" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1920851143.xml" htmlUrl="http://blog.sina.com.cn/u/1920851143"/>
+      <outline text="童书小编 燕菲" title="童书小编 燕菲" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1944293442.xml" htmlUrl="http://blog.sina.com.cn/u/1944293442"/>
+  </outline>
+  <outline title="软件" text="软件">
+      <outline text="Educational Apps For Kids" title="Educational Apps For Kids" type="rss" 
+            xmlUrl="http://feeds.feedblitz.com/educationalappsforkids&amp;x=1" htmlUrl="http://www.smartappsforkids.com/"/>
+      <outline text="Mac@appShopper" title="AppShopper.com: Popular Price Drops for Mac OS" type="rss" 
+            xmlUrl="http://appshopper.com/feed/?platform=mac&amp;mode=featured&amp;filter=price" htmlUrl="http://appshopper.com"/>
+      <outline text="iOS@AppShopper" title="AppShopper.com: Popular New Apps, Version Changes and Price Changes for Mac OS" type="rss" 
+            xmlUrl="http://appshopper.com/feed/?platform=ios&amp;device=&amp;mode=all&amp;filter=price&amp;type=free&amp;category=" htmlUrl="http://appshopper.com"/>
+      <outline text="爱应用" title="爱应用" type="rss" 
+            xmlUrl="http://www.iapps.im/feed/index" htmlUrl="http://www.iapps.im/feed/index"/>
+      <outline text="苹果fans博客" title="苹果fans博客" type="rss" 
+            xmlUrl="http://feed43.com/mac52ipod.xml" htmlUrl="http://www.mac52ipod.cn/"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="http://feed.appinn.com/" htmlUrl="http://www.appinn.com"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" 
+            xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Ffeed.iplaysoft.com&amp;max=3" htmlUrl="http://www.iplaysoft.com"/>
+      <outline text="GuAo.hk | 谷奥——探寻谷歌的奥秘" title="GuAo.hk | 谷奥——探寻谷歌的奥秘" type="rss" 
+            xmlUrl="http://feed-android.google.org.cn/" htmlUrl="http://each.fm"/>
+      <outline text="少数派" title="少数派" type="rss" 
+            xmlUrl="http://sspai.com/feed" htmlUrl="http://sspai.com/feed"/>
+  </outline>
+  <outline title="人文" text="人文">
+      <outline text="南桥的博客" title="南桥的博客" type="rss" 
+            xmlUrl="http://berlinfang.blog.163.com/rss/" htmlUrl="http://berlinfang.blog.163.com"/>
+      <outline text="竹立的BLOG" title="竹立的BLOG" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1275022345.xml" htmlUrl="http://blog.sina.com.cn/wzl63"/>
+      <outline text="东行记-我们在上海的故事" title="东行记-我们在上海的故事" type="rss" 
+            xmlUrl="http://blog.sina.com.cn/rss/1649275132.xml" htmlUrl="http://blog.sina.com.cn/shnuli"/>
+      <outline text="大家" title="大家" type="rss" 
+            xmlUrl="http://hanhanone.sinaapp.com/feed/dajia" htmlUrl="http://dajia.qq.com"/>
+      <outline text="读写人" title="读写人" type="rss" 
+            xmlUrl="http://www.duxieren.com/duxieren.xml" htmlUrl="http://www.duxieren.com"/>
+  </outline>
+  <outline title="CNKI" text="CNKI">
+      <outline text="学前教育研究-CNKI" title="学前教育研究-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XQJY&amp;Virtual=KNS&amp;dbcode=CJFD" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="心理发展与教育-CNKI" title="心理发展与教育-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XLFZ&amp;Virtual=KNS" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="心理学报-CNKI" title="心理学报-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XLXB&amp;Virtual=KNS" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="中国临床心理学杂志-CNKI" title="中国临床心理学杂志-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=ZLCY&amp;Virtual=KNS" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="心理科学进展-CNKI" title="心理科学进展-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XLXD&amp;Virtual=KNS" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="中国心理卫生杂志-CNKI" title="中国心理卫生杂志-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=ZXWS&amp;Virtual=KNS" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+      <outline text="心理科学-CNKI" title="心理科学-CNKI" type="rss" 
+            xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XLKX&amp;Virtual=KNS&amp;dbcode=CJFD" htmlUrl="http://www.cnki.net/kcms/detail/"/>
+  </outline>
+  <outline title="Scholar" text="Scholar">
+      <outline text="British Journal of Developmental Psychology" title="British Journal of Developmental Psychology" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2044-835X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%292044-835X"/>
+      <outline text="Congnitive Development" title="Congnitive Development" type="rss" 
+            xmlUrl="http://rss.sciencedirect.com/publication/science/08852014" htmlUrl="http://www.sciencedirect.com"/>
+      <outline text="Infant Behavior and Development" title="Infant Behavior and Development" type="rss" 
+            xmlUrl="http://rss.sciencedirect.com/publication/science/01636383" htmlUrl="http://www.sciencedirect.com"/>
+      <outline text="Monographs of the Society for Research in Child Development" title="Monographs of the Society for Research in Child Development" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1540-5834" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291540-5834"/>
+      <outline text="The Quarterly Journal of Experimental Psychology" title="The Quarterly Journal of Experimental Psychology" type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2k5&amp;jc=pqje20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2k5&amp;jc=pqje20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="Social Development" title="Social Development" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1467-9507" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291467-9507"/>
+      <outline text="Developmental Science " title="Developmental Science " type="rss" 
+            xmlUrl="http://www3.interscience.wiley.com/rss/journal/118545404" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291467-7687"/>
+      <outline text="Infant and Child Development " title="Infant and Child Development " type="rss" 
+            xmlUrl="http://www3.interscience.wiley.com/rss/journal/10009397" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291522-7219"/>
+      <outline text="Journal of Child Psychology and Psychiatry " title="Journal of Child Psychology and Psychiatry " type="rss" 
+            xmlUrl="http://www3.interscience.wiley.com/rss/journal/117960395" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291469-7610"/>
+      <outline text="Journal of Experimental Psychology: Learning, Memory, and Cognition " title="Journal of Experimental Psychology: Learning, Memory, and Cognition " type="rss" 
+            xmlUrl="http://content.apa.org/journals/xlm.rss" htmlUrl="http://psycnet.apa.org/journals/xlm"/>
+      <outline text="Journal of Personality and Social Psychology " title="Journal of Personality and Social Psychology " type="rss" 
+            xmlUrl="http://content.apa.org/journals/psp.rss" htmlUrl="http://psycnet.apa.org/journals/psp"/>
+      <outline text="Social Development " title="Social Development " type="rss" 
+            xmlUrl="http://www3.interscience.wiley.com/rss/journal/118543488" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291467-9507"/>
+      <outline text="INFANTS AND YOUNG CHILDREN " title="INFANTS AND YOUNG CHILDREN " type="rss" 
+            xmlUrl="http://journals.lww.com/iycjournal/_layouts/OAKS.Journals/feed.aspx?FeedType=MostPopularArticles" htmlUrl="http://journals.lww.com/iycjournal/pages/viewallmostpopulararticles.aspx"/>
+      <outline text="JOURNAL OF EARLY INTERVENTION" title="JOURNAL OF EARLY INTERVENTION" type="rss" 
+            xmlUrl="http://jei.sagepub.com/rss/current.xml" htmlUrl="http://jei.sagepub.com"/>
+      <outline text="EUROPEAN EARLY CHILDHOOD EDUCATION RESEARCH JOURNAL " title="EUROPEAN EARLY CHILDHOOD EDUCATION RESEARCH JOURNAL " type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=124&amp;jc=recr20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=124&amp;jc=recr20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="EARLY EDUCATION AND DEVELOPMENT " title="EARLY EDUCATION AND DEVELOPMENT " type="rss" 
+            xmlUrl="http%3A%2F%2Fwww.tandfonline.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dhp1zvd%26ai%3D2h2%26jc%3Dheed20%26type%3Detoc%26feed%3Drss"/>
+      <outline text="EARLY EDUCATION AND DEVELOPMENT " title="EARLY EDUCATION AND DEVELOPMENT " type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2h2&amp;jc=heed20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2h2&amp;jc=heed20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="EARLY CHILDHOOD RESEARCH QUARTERLY " title="EARLY CHILDHOOD RESEARCH QUARTERLY " type="rss" 
+            xmlUrl="http://rss.sciencedirect.com/publication/science/08852006" htmlUrl="http://www.sciencedirect.com"/>
+      <outline text="Developmental Science" title="Developmental Science" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7687"/>
+      <outline text="Journal of Personality and Social Psychology" title="Journal of Personality and Social Psychology" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/apa-journals-psp" htmlUrl="http://psycnet.apa.org/journals/psp"/>
+      <outline text="History of Psychology" title="History of Psychology" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/apa-journals-hop?format=xml" htmlUrl="http://psycnet.apa.org/journals/hop"/>
+      <outline text="Educational Researcher" title="Educational Researcher" type="rss" 
+            xmlUrl="http://edr.sagepub.com/rss/current.xml" htmlUrl="http://edr.sagepub.com"/>
+      <outline text="Review of Educational Research" title="Review of Educational Research" type="rss" 
+            xmlUrl="http://rer.sagepub.com/rss/current.xml" htmlUrl="http://rer.sagepub.com"/>
+      <outline text="Review of Research in Education" title="Review of Research in Education" type="rss" 
+            xmlUrl="http://rre.sagepub.com/rss/current.xml" htmlUrl="http://rre.sagepub.com"/>
+      <outline text="Journal of Educational Psychology" title="Journal of Educational Psychology" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/apa-journals-edu?format=xml" htmlUrl="http://psycnet.apa.org/journals/edu"/>
+      <outline text="Educational Psychologist" title="Educational Psychologist" type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xv&amp;jc=hedp20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xv&amp;jc=hedp20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="Science Education" title="Science Education" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1098-237X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291098-237X"/>
+      <outline text="Journal of the Learning Sciences" title="Journal of the Learning Sciences" type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2he&amp;jc=hlns20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2he&amp;jc=hlns20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="Journal of Research in Science Teaching" title="Journal of Research in Science Teaching" type="rss" 
+            xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1098-2736" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291098-2736"/>
+      <outline text="Cognition &#38; Instruction" title="Cognition &#38; Instruction" type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xr&amp;jc=hcgi20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xr&amp;jc=hcgi20&amp;type=etoc&amp;feed=rss"/>
+      <outline text="Learning &#38; Instruction" title="Learning &#38; Instruction" type="rss" 
+            xmlUrl="http://rss.sciencedirect.com/publication/science/09594752" htmlUrl="http://www.sciencedirect.com"/>
+      <outline text="International Journal of Science Education" title="International Journal of Science Education" type="rss" 
+            xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=17b&amp;jc=tsed20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=17b&amp;jc=tsed20&amp;type=etoc&amp;feed=rss"/>
+  </outline>
+</body>
+</opml>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0"><head><title>RSS Reader export</title><dateCreated>16.10.2017 09:46</dateCreated></head><body><outline text="酷安安卓软件更新/Android" title="酷安安卓软件更新/Android" type="rss" xmlUrl="http://www.coolapk.com/rss?t=apk"/><outline text="百度百家 - 今天看啥(jintiankansha.me)" title="百度百家 - 今天看啥(jintiankansha.me)" type="rss" xmlUrl="http://www.jintiankansha.me/rss/GEYDONZRPRSTGZJUGA4DKNDCGU3GKMZVGM4DMNJWMI2TAMDEMMYDOMLDMJRWIZDCMU2TMZBWGY======"/><outline text="https://rssatweixin.herokuapp.com/users/1/web_requests/11/weixin_public.xml" title="https://rssatweixin.herokuapp.com/users/1/web_requests/11/weixin_public.xml" type="rss" xmlUrl="https://rssatweixin.herokuapp.com/users/1/web_requests/11/weixin_public.xml"/><outline text="1儿童教育" title="1儿童教育"><outline text="百度新闻全文搜索_图画书  " title="百度新闻全文搜索_图画书  " type="rss" xmlUrl="http://news.baidu.com/ns?word=%CD%BC%BB%AD%CA%E9&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0"/><outline text="百度新闻全文搜索_绘本  " title="百度新闻全文搜索_绘本  " type="rss" xmlUrl="http://news.baidu.com/ns?word=绘本&amp;tn=newsrss&amp;sr=0&amp;cl=2&amp;rn=20&amp;ct=0"/><outline text="绘本 - Google 新闻" title="绘本 - Google 新闻" type="rss" xmlUrl="https://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=zh-CN&amp;tab=wn&amp;;;ned=ccn&amp;as_drrb=q&amp;as_qdr&amp;as_minm=3&amp;as_mind=30&amp;as_maxm=4&amp;as_maxd=29&amp;aq=f&amp;q=绘本&amp;ie=UTF-8&amp;output=rss"/><outline text="图画书 - Google 新闻" title="图画书 - Google 新闻" type="rss" xmlUrl="https://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=zh-CN&amp;tab=wn&amp;;;ned=ccn&amp;as_drrb=q&amp;as_qdr&amp;as_minm=3&amp;as_mind=30&amp;as_maxm=4&amp;as_maxd=29&amp;aq=f&amp;q=图画书&amp;ie=UTF-8&amp;output=rss"/><outline text="儿童读写能力 - Google 新闻" title="儿童读写能力 - Google 新闻" type="rss" xmlUrl="https://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=zh-CN&amp;tab=wn&amp;;;ned=ccn&amp;as_drrb=q&amp;as_qdr&amp;as_minm=3&amp;as_mind=30&amp;as_maxm=4&amp;as_maxd=29&amp;aq=f&amp;q=儿童读写能力&amp;ie=UTF-8&amp;output=rss"/></outline><outline text="2信息技术" title="2信息技术"><outline text="少数派" title="少数派" type="rss" xmlUrl="http://sspai.com/feed"/><outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com"/><outline text="老鸟家园 - 百度网盘迅雷电影资源区" title="老鸟家园 - 百度网盘迅雷电影资源区" type="rss" xmlUrl="http://bbs.hd62.com/rss.php?fid=12"/><outline text="绿软分享吧" title="绿软分享吧" type="rss" xmlUrl="http://www.lrshare.com/feed"/><outline text="軟體部落" title="軟體部落" type="rss" xmlUrl="https://softblog.tw/feed"/><outline text="殁漂遥" title="殁漂遥" type="rss" xmlUrl="http://www.shaoit.com/feed"/></outline><outline text="3其他" title="3其他"><outline text="读写人" title="读写人" type="rss" xmlUrl="http://www.duxieren.com/duxieren.xml"/><outline text="造就_发现创造力" title="造就_发现创造力" type="rss" xmlUrl="https://www.zaojiu.com/rss"/></outline><outline text="4心理" title="4心理"><outline text="心理学书籍" title="心理学书籍" type="rss" xmlUrl="http://www.psychspace.com/space/action-rss"/><outline text="心理学空间" title="心理学空间" type="rss" xmlUrl="http://www.psychspace.com/psych/action-rss"/><outline text="学前教育研究-CNKI" title="学前教育研究-CNKI" type="rss" xmlUrl="http://rss.cnki.net/KNS/rss.aspx?journal=XQJY&amp;Virtual=KNS&amp;dbcode=CJFD"/></outline><outline text="AnnualReviewsTOC" title="AnnualReviewsTOC"><outline text="Annual Reviews: Annual Review of Psychology: Table of Contents" title="Annual Reviews: Annual Review of Psychology: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=0&amp;mi=7273xo&amp;ai=s1&amp;jc=psych&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Clinical Psychology: Table of Contents" title="Annual Reviews: Annual Review of Clinical Psychology: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=0&amp;mi=7273xo&amp;ai=18f&amp;jc=clinpsy&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Anthropology: Table of Contents" title="Annual Reviews: Annual Review of Anthropology: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sz&amp;jc=anthro&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Linguistics: Table of Contents" title="Annual Reviews: Annual Review of Linguistics: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=6690&amp;jc=linguistics&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Neuroscience: Table of Contents" title="Annual Reviews: Annual Review of Neuroscience: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=s2&amp;jc=neuro&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Organizational Psychology and Organizational Behavior: Table of Contents" title="Annual Reviews: Annual Review of Organizational Psychology and Organizational Behavior: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=6690&amp;jc=orgpsych&amp;type=etoc&amp;feed=rss"/><outline text="Annual Reviews: Annual Review of Statistics and Its Application: Table of Contents" title="Annual Reviews: Annual Review of Statistics and Its Application: Table of Contents" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=6690&amp;jc=statistics&amp;type=etoc&amp;feed=rss"/></outline><outline text="tandfonlineTOC" title="tandfonlineTOC"><outline text="Journal of Child Language" title="Journal of Child Language" type="rss" xmlUrl="http://journals.cambridge.org/data/rss/aggregated/feed_29658_rss.xml"/><outline text="Review of Research in Education" title="Review of Research in Education" type="rss" xmlUrl="http://rre.sagepub.com/rss/current.xml"/><outline text="Monographs of the Society for Research in Child Development" title="Monographs of the Society for Research in Child Development" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1540-5834"/><outline text="Routledge: The Quarterly Journal of Experimental Psychology: Table of Contents" title="Routledge: The Quarterly Journal of Experimental Psychology: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2k5&amp;jc=pqje20&amp;type=etoc&amp;feed=rss"/><outline text="Routledge: European Early Childhood Education Research Journal: Table of Contents" title="Routledge: European Early Childhood Education Research Journal: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=124&amp;jc=recr20&amp;type=etoc&amp;feed=rss"/><outline text="Routledge: Early Education and Development: Table of Contents" title="Routledge: Early Education and Development: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2h2&amp;jc=heed20&amp;type=etoc&amp;feed=rss"/><outline text="Routledge: Educational Psychologist: Table of Contents" title="Routledge: Educational Psychologist: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xv&amp;jc=hedp20&amp;type=etoc&amp;feed=rss"/><outline text="Routledge: Journal of the Learning Sciences: Table of Contents" title="Routledge: Journal of the Learning Sciences: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=2he&amp;jc=hlns20&amp;type=etoc&amp;feed=rss"/><outline text="Routledge: Cognition and Instruction: Table of Contents" title="Routledge: Cognition and Instruction: Table of Contents" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=hp1zvd&amp;ai=xr&amp;jc=hcgi20&amp;type=etoc&amp;feed=rss"/></outline><outline text="CNKI" title="CNKI"><outline text="心理学空间psychspace.com" title="心理学空间psychspace.com" type="rss" xmlUrl="http://www.psychspace.com/bbs/forum.php?mod=rss"/></outline><outline text="ReviewEtc" title="ReviewEtc"><outline text="American Educational Research Journal current issue" title="American Educational Research Journal current issue" type="rss" xmlUrl="http://aer.sagepub.com/rss/current.xml"/><outline text="Educational Researcher" title="Educational Researcher" type="rss" xmlUrl="http://edr.sagepub.com/rss/current.xml"/><outline text="Journal of Personality and Social Psychology" title="Journal of Personality and Social Psychology" type="rss" xmlUrl="http://feeds.feedburner.com/apa-journals-psp"/><outline text="Review of Educational Research" title="Review of Educational Research" type="rss" xmlUrl="http://rer.sagepub.com/rss/current.xml"/><outline text="Psychological Methods - Vol 22, Iss 2" title="Psychological Methods - Vol 22, Iss 2" type="rss" xmlUrl="http://content.apa.org/journals/met.rss"/><outline text="ScienceDirect Publication: Learning and Instruction" title="ScienceDirect Publication: Learning and Instruction" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09594752"/><outline text="Journal of Research in Science Teaching" title="Journal of Research in Science Teaching" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1098-2736"/><outline text="Science Education" title="Science Education" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1098-237X"/><outline text="Social Development" title="Social Development" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/118543488"/><outline text="ScienceDirect Publication: Cognitive Development" title="ScienceDirect Publication: Cognitive Development" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/08852014"/><outline text="Journal of Experimental Psychology: Learning, Memory, and Cognition - Vol 43, Iss 6" title="Journal of Experimental Psychology: Learning, Memory, and Cognition - Vol 43, Iss 6" type="rss" xmlUrl="http://content.apa.org/journals/xlm.rss"/><outline text="Journal of Personality and Social Psychology - Vol 113, Iss 1" title="Journal of Personality and Social Psychology - Vol 113, Iss 1" type="rss" xmlUrl="http://content.apa.org/journals/psp.rss"/><outline text="Psychological Bulletin - Vol 143, Iss 7" title="Psychological Bulletin - Vol 143, Iss 7" type="rss" xmlUrl="http://content.apa.org/journals/bul.rss"/><outline text="ScienceDirect Publication: Developmental Review" title="ScienceDirect Publication: Developmental Review" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/02732297"/><outline text="Psychological Review - Vol 124, Iss 4" title="Psychological Review - Vol 124, Iss 4" type="rss" xmlUrl="http://content.apa.org/journals/rev.rss"/><outline text="American Psychologist - Vol 72, Iss 4" title="American Psychologist - Vol 72, Iss 4" type="rss" xmlUrl="http://content.apa.org/journals/amp.rss"/><outline text="History of Psychology - Vol 20, Iss 2" title="History of Psychology - Vol 20, Iss 2" type="rss" xmlUrl="http://content.apa.org/journals/hop.rss"/></outline><outline text="InfantsChild" title="InfantsChild"><outline text="JOURNAL OF EARLY INTERVENTION" title="JOURNAL OF EARLY INTERVENTION" type="rss" xmlUrl="http://jei.sagepub.com/rss/current.xml"/><outline text="Journal of Educational Psychology" title="Journal of Educational Psychology" type="rss" xmlUrl="http://feeds.feedburner.com/apa-journals-edu?format=xml"/><outline text="Journal of Marriage and Family" title="Journal of Marriage and Family" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1741-3737"/><outline text="British Journal of Developmental Psychology" title="British Journal of Developmental Psychology" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2044-835X"/><outline text="ScienceDirect Publication: Infant Behavior and Development" title="ScienceDirect Publication: Infant Behavior and Development" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/01636383"/><outline text="Developmental Science" title="Developmental Science" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/118545404"/><outline text="Journal of Child Psychology and Psychiatry" title="Journal of Child Psychology and Psychiatry" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/117960395"/><outline text="Infants &amp; Young Children - Most Popular Articles" title="Infants &amp; Young Children - Most Popular Articles" type="rss" xmlUrl="http://journals.lww.com/iycjournal/_layouts/OAKS.Journals/feed.aspx?FeedType=MostPopularArticles"/><outline text="Developmental Psychology - Vol 53, Iss 7" title="Developmental Psychology - Vol 53, Iss 7" type="rss" xmlUrl="http://content.apa.org/journals/dev.rss"/></outline><outline text="!!!" title="!!!"><outline text="ScienceDirect Search: &quot;Hong-Yan Bi&quot; or &quot;HongYan Bi&quot; or &quot;HY Bi&quot;" title="ScienceDirect Search: &quot;Hong-Yan Bi&quot; or &quot;HongYan Bi&quot; or &quot;HY Bi&quot;" type="rss" xmlUrl="https://rss.sciencedirect.com/getMessage?registrationId=DCFHDDFIKEFQFCGQFCGNDLGPEDFOHCOJDFNIJFHMKG"/><outline text="Faculty of Social and Behavioural Sciences Research - Learning Problems and Impairments - Faculty of Social and Behavioural Sciences" title="Faculty of Social and Behavioural Sciences Research - Learning Problems and Impairments - Faculty of Social and Behavioural Sciences" type="rss" xmlUrl="http://www.socialsciences.leiden.edu/educationandchildstudies/learningproblemsandimpairments/research/rss"/><outline text="Child Development" title="Child Development" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1467-8624"/><outline text="Infant and Child Development" title="Infant and Child Development" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/10009397"/><outline text="ScienceDirect Publication: Early Childhood Research Quarterly" title="ScienceDirect Publication: Early Childhood Research Quarterly" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/08852006"/><outline text="Reading Research Quarterly" title="Reading Research Quarterly" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1936-2722"/></outline></body></opml>

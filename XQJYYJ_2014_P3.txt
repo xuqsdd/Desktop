@@ -1,0 +1,1264 @@
+﻿南京大学中国社会科学研究评价中心
+数字文献处理系统 版本：2.1
+版权所有 (C) 2000 - 2001 CSSCI Corp.
+
+
+【来源篇名】害羞儿童早期干预项目及其未来展望
+【英文篇名】Review on the Intervention Studies for Shy Children
+【来源作者】李燕/陈露/王悦敏/吕芳/徐欢
+【基    金】教育部人文社会科学研究项目(09YJA880088)/上海市教委科研创新项目(B-9123-13-001005)
+【期    刊】学前教育研究
+【第一机构】上海师范大学
+【机构名称】[徐欢]上海师范大学.教育学院/[吕芳]上海师范大学.教育学院/[王悦敏]上海师范大学.教育学院/[陈露]上海师范大学.教育学院/[李燕]上海师范大学.教育学院
+【第一作者】李燕
+【中图类号】G61
+【年代卷期】2014,(090):45-51
+【关 键 词】儿童害羞/早期干预/社会性发展
+【基金类别】教育部基金/其它基金/
+【参考文献】
+1.Zimbardo,P.G..Shyness: What is it and what to do about it.New York, NY:Symphony
+2.Kagan,J..Galen's prophecy.New York, NY:Basic Books
+3.张光珍.社交退缩与儿童的社会适应之间的关系:性别的调节作用.心理科学.2013.(4)
+4.姚素慧.大班社会退缩幼儿的同伴互动特点.学前教育研究.2012.(9)
+5.张春兴.教育心理学.杭州:浙江教育出版社
+6.Bruch,M.A..Shyness and sociotropy: additive and interactive relation in predicting interpersonal concerns.Journal of Personality.1999.(2)
+7.Pilkonis,P.A..Shyness, public and private, and its relationship to other measures of behavior.Journal of Personality.1977.(4)
+8.苏素美.害羞量表的发展及其相关因素之研究:博士学位论文:国立高雄师范大学教育研究所,1996
+9.Gortmaker,S.L..Daylength during pregnancy and shyness in children: results from northern and southern hemispheres.Developmental Psychobiology.1997.(31)
+10.游志麒.童年中后期儿童同伴接纳知觉准确性与偏差及其对社交退缩的影响.心理科学.2013.(5)
+11.Chen,X..Shyness-sensitivity and unsociability in rural Chinese children: Relations with social, school and psychological adjustment.Child development.2011.(5)
+12.Liu,J..Unsociability and Shyness in Chinese Children: Concurrent and Predictive Relations with Indices of Adjustment.Social Development.2014.(23)
+13.耿凤基.儿童行为抑制的生理机制研究述评.应用心理学.2007.(4)
+14.Rubin,K.H..Social relationships and social skills: A conceptual and empirical analysis:Close relationships and socio-emotional development.CT:Ablex Publishing,1995:63-94
+15.Burgess,K.B..Social Information Processing and Coping Strategies of Shy/Withdrawn and Aggressive Children: Does Friendship Matter.Child Development.2006.(2)
+16.Malloy,H.L..Conflict strategies and resolutions: Peer conflict in an integrated early childhood classroom.Early Childhood Research Quarterly.1996.(11)
+17.周宗奎.关于人际认知解决问题的研究.心理科学.1992.(6)
+18.陈益.解决人际问题的认知技能对4-5岁幼儿同伴交往行为的影响的实验研究.心理科学.1996.(5)
+19.王争艳.促进被拒绝和被忽视幼儿的同伴交往的三种训练方法.心理发展与教育.2002.(2)
+20.王玲凤.幼儿情绪调节与“冷”“热”抑制控制的发展特点.学前教育研究.2013.(3)
+21.Lemerise,E.A..An integrated model of emotion prosesses and cognition in social information processing.Child Development.2000.(71)
+22.潘苗苗.幼儿情绪理解、情绪调节与其同伴接纳的关系.心理发展与教育.2007.(2)
+23.Fox,J.K..Preventive Intervention for Anxious Preschoolers and Their Parents: Strengthening Early Emotional Development.Child Psychiatry Hum.2012.(43)
+24.Izard,C.E..An emotion-based prevention program for Head Start children.Early Education & Development.2004.(15)
+25.Greco,L.A..Treating childhood shyness and related behaviour: Empirically evaluated approaches to promote positive social interactions.Clinical Child and Family Psychology Review.2001.(4)
+26.Miller,R.S..On the nature of embarrassability: Shyness, social evaluation, and social skill.Journal of Personality.1995.(63)
+27.Blonk,R.W.B..Cognitive-behavioral group therapy for socially incompetent children: short-team and maintenance effects with a clinical sample.Journal of Clinical Child Psychology.1996.(25)
+28.Beidel,D.C..Shy children, phobic adults.Amer Psychological Assn
+29.叶平枝.幼儿社会退缩的特征及教育干预研究.北京:中国社会科学出版社
+30.Coplan,R.J..“Play skills”for shy children: Development of a social skills-facilitated play early intervention program for extremely inhibited preschoolers.Infant and Child Development.2010.(19)
+31.Berler,E.S..Social skills training with children: Proceed with caution.Journal of Applied Behavior Analysis.1982.(15)
+32.Coplan,R.J..Education and Training Program for Parents of Shy Preschoolers.Facilitator Manual
+33.郑淑杰.学前幼儿社会退缩行为研究综述.学前教育研究.2003.(3)
+34.Furman,W..Rehabilitation of socially withdrawn preschool children through mixed-age and same-age socialization.Child Development.1979.(50)
+35.刘艳.幼儿青少年社交退缩的干预.教育心理研究.2012.(1)
+36.Coplan,R.J..Is Silence Golden? Elementary School Teachers' Strategies and Beliefs Regarding Hypothetical Shy/Quiet and Exuberant/Talkative Children.Journal of Educational Psychology.2011.(103)
+37.Rubin,K.H..Nonsocial play in preschoolers: Necessarily evil?.Child Development.2003.(53)
+38.Evans,M.A..Shyness in the classroom and home:International handbook of social anxiety: Concepts, research and interventions relating to the self and shyness,2001:159-183
+39.Sainato.Effects of a classroom manager role on the social interaction patterns and social status of withdrawn kindergarten students.Journal of Applied Behavior Analysis.1986.(19)
+40.李燕.学前儿童的情绪教育:理论与实践.北京:北京大学出版社
+41.张晓.儿童行为抑制性与母亲教养行为:一项追踪研究.心理科学.2013.(4)
+42.Rubin,K.H..Maternal beliefs about adaptive and maladaptive social behaviors in normal aggressive and withdrawn preschoolers.Journal of Abnormal Child Psychology.1990.(18)
+43.Ronald,M.R..Development and Modification of Temperamental Risk for Anxiety Disorders: Prevention of a Lifetime of Anxiety.Society of Biological Psychiatry.2002.(52)
+44.李燕.父母对儿童消极情绪的反应方式及其与幼儿社会技能关系的研究.心理科学.2010.(3)
+45.李燕.父亲参与及其对儿童发展影响的研究综述.外国中小学教育.2010.(5)
+46.李燕.父母效能系统训练模式的理论述评.东北师范大学学报(哲社版).2013.(1)
+47.刘云.隔代教养对学前儿童情绪调节策略的影响.学前教育研究.2013.(2)
+48.叶平枝.社会退缩与儿童发展关系研究的回顾与展望.学前教育研究.2007.(11)
+49.叶平枝.儿童社会退缩的概念、分型及干预研究述评.学前教育研究.2005.(11)
+-----------------------------------------------------------------------
+
+【来源篇名】当前欧美国家有关入学准备研究的最新进展
+【英文篇名】Reviews on the Studies of Children’s School Readiness in American and Europe Countries
+【来源作者】夏竹筠/宋占美/张丹彤
+【基    金】全国教育科学“十二五”规划2012年度教育部青年专项课题(EHA120366)
+【期    刊】学前教育研究
+【第一机构】山东英才学院
+【机构名称】[张丹彤]山东英才学院.学前教育研究院/[宋占美]山东英才学院.学前教育研究院/[夏竹筠]山东英才学院.学前教育研究院
+【第一作者】夏竹筠
+【中图类号】G61
+【年代卷期】2014,(090):52-58
+【关 键 词】入学准备/入学准备研究/早期教育保育
+【基金类别】教育部基金/
+【参考文献】
+1.Aunola,K..Developmental Dynamics of Math Performance From Preschool to Grade 2.Journal of Educational Psychology.2004.96(4)
+2.McLoyd,Vonnie C..How childhood poverty and income affect children's cognitive functioning and school achievement:Educating the other America: Top experts tackle poverty, literacy, and achievement in our schools:Paul H. Brookes Publishing Company,2008
+3.Linder,S.M..Predictors of School Readiness in Literacy and Mathematics: A Selective Review of the Literature.Early Childhood Research & Practice.2013.15(1)
+4.NICHD Early Child Care Research Network.Early child care and children's development prior to school entry: Results from the NICHD Study of Early Child Care.American Educational Research Journal.2002.39(1)
+5.McClelland,M.M..Links between behavioral regulation and preschoolers' literacy, vocabulary, and math skills.Developmental psychology.2007.43(4)
+6.Son,S..Links Between Preschoolers' Behavioral Regulation and School Readiness Skills: The Role of Child Gender.Early Education and Development.2013.24(4)
+7.McClelland,M.M..Executive function, behavioral self-regulation, and social-emotional competence: Links to school readiness:Contemporary perspectives in early childhood education: Social learning in early childhood education.Greenwich, CT:Information Age,2007
+8.Koury,A.S..School readiness of children from immigrant families: Contributions of region of origin, home, and childcare.Journal of Educational Psychology.2014.106(1)
+9.Barbarin,O.A..Parental conceptions of school readiness: Relation to ethnicity, socioeconomic status, and children's skills.Early Education and Development.2008.19(5)
+10.Diamond,K.E..Parents' Conceptions of Kindergarten Readiness: Relationships With Race, Ethnicity, and Development.Journal of Educational Research.2000.94(2)
+11.Chase-Lansdale,P.L..Welfare reform and parenting: Reasonable expectations.Future of Children.2002.
+12.Ziol-Guest,K.M..Early childhood housing instability and school readiness.Child development.2013.85(1)
+13.Young Children Develop in an Environment of Relationships, Working Paper
+14.Muniz,E.I..Family Routines and Social-Emotional School Readiness Among Preschool-Age Children.Journal of Developmental & Behavioral Pediatrics.2012.35(2)
+15.Keys,T.D..Preschool center quality and school readiness: Quality effects and variation by demographic and child characteristics.Child development.2013.84(4)
+16.Gordon,R.A..An assessment of the validity of the ECERS-R with implications for measures of child care quality and relations to child development.Developmental psychology.2013.49(1)
+17.Zaslow,M..Child outcome measures in the study of child care quality.Evaluation Review.2006.30(5)
+18.Sabol,T.J..Do Standard Measures of Preschool Quality Used in Statewide Policy Predict School Readiness?.Education Finance and Policy.2014.9(2)
+19.Lee,R.H..Head Start participation and school readiness: Evidence from Early Childhood Longitudinal Study-Birth Cohort.Deveopmental Psychology.2014.50(1)
+20.Zhai,F..Head Start, prekindergarten, and academic school readiness: A comparison among regions in the United States.Journal of Social Service Research.2013.39(3)
+21.Vaughn,M.G..Substance use and abuse among older youth in foster care.Addictive Behaviors.2007.32(9)
+22.Pears,K.C..Immediate effects of a school readiness for children in foster care.Early Education and Development.2013.24
+23.Son,S.C..Head Start classrooms and children's school readiness benefit from teachers' qualifications and ongoing training.Child Youth Care Forum.2013.42
+24.Boivin,M..Promoting School Readiness and Early Learning: Implications of Developmental Research for Practice.Guilford Publications
+-----------------------------------------------------------------------
+
+【来源篇名】课程改革:幼儿园教师专业发展的契机
+【英文篇名】Reformation of Kindergarten Curriculum and the Professional Development of Teachers
+【来源作者】段发明
+【基    金】湖南省教育厅科学研究项目(10C0950)
+【期    刊】学前教育研究
+【第一机构】湖南师范大学
+【机构名称】[段发明]湖南师范大学.期刊社
+【第一作者】段发明
+【中图类号】G61
+【年代卷期】2014,(090):59-63
+【关 键 词】课程改革/幼儿园教师/专业发展
+【基金类别】其它基金/
+【参考文献】
+1.徐丽玲.幼儿教师专业能力培养的体系构建与实施策略——基于《幼儿园教师专业标准》的思考.湖南师范大学教育科学学报.2013.(2)
+2.布迪厄,皮埃尔.实践与反思:反思社会学导引.北京:中央编译出版社
+3.周晓虹.现代社会心理学.上海:上海人民出版社
+4.文君.幼儿园教师职业准入标准核心指标探讨.湖南师范大学教育科学学报.2013.(6)
+5.李瑾瑜.课程改革与教师角色转变.北京:中国人事出版社
+6.柳夕浪.建构积极的“教学自我”.教育实验研究.2003.(3)
+7.刘良华.校本行动研究.成都:四川教育出版社
+8.柳夕浪.教师及研究者.教师博览.2001.(12)
+9.多尔,小威廉姆斯 E..后现代课程观.北京:教育科学出版社
+10.赵南.幼儿园选用教材及教师指导用书的现状与存在问题分析——以湖南省为例.湖南师范大学教育科学学报.2013.(2)
+11.欧文斯,罗伯特·G..教育组织行为学.上海:华东师范大学出版社
+12.王卫华.从防范到赋权:教师之于课程的角色审视.湖南师范大学教育科学学报.2014.(3)
+13.Rice,E.M..A decade of teacher empowerment: An empirical analysis of teacher involvement indecision making (1980—1991).Journal of Educational Administration.1994.32(1)
+-----------------------------------------------------------------------
+
+【来源篇名】高职学前教育专业舞蹈教学改革的新思路
+【英文篇名】On the Reform of Dance Teaching in Preschool Normal College
+【来源作者】乔艳红
+【基    金】教育部人文社科规划项目(09YJAXLX001)
+【期    刊】学前教育研究
+【第一机构】运城幼儿师范高等专科学校
+【机构名称】[乔艳红]运城幼儿师范高等专科学校.
+【第一作者】乔艳红
+【中图类号】G61
+【年代卷期】2014,(090):64-66
+【关 键 词】学前教育专业/舞蹈教学/教学改革
+【基金类别】教育部基金/
+【参考文献】
+1.李静.浅谈学前教育专业幼儿舞蹈课程设计与改革.淮坊教育学院学报.2010.(4)
+2.王印英.幼儿舞蹈启蒙教育的新理念.学前教育研究.2012.(12)
+3.周炳元.高师学前教育专业舞蹈教学研究:硕士学位论文:东北师范大学,2011
+4.向黎丽.浅析高职学前专业舞蹈教学.大舞台.2010.(4)
+5.谢琼.高职院校学前教育专业舞蹈教学改革之探讨.成才之路.2009.(34)
+-----------------------------------------------------------------------
+
+【来源篇名】游戏精神引领下幼儿行为习惯的养成
+【英文篇名】Cultivating Children’s Behavioral Habits under the Guidance of the Game Spirit
+【来源作者】樊人利
+【基    金】江苏省教育科学“十二五”规划课题(D/2011/02/614)
+【期    刊】学前教育研究
+【第一机构】张家港市实验幼儿园
+【机构名称】[樊人利]张家港市实验幼儿园.
+【第一作者】樊人利
+【中图类号】G61
+【年代卷期】2014,(090):67-69
+【关 键 词】游戏精神/幼儿发展/行为习惯
+【基金类别】省（市）级基金/
+【参考文献】
+1.杨晓萍.儿童游戏的本质——基于文化哲学的视角.学前教育研究.2009.(10)
+2.黄进.游戏精神与幼儿教育.南京:江苏教育出版社
+3.丁海东.儿童精神:一种人文的表达.北京:教育科学出版社
+4.刘晓东.儿童精神哲学.南京:南京师范大学出版社
+5.胡伊青加.人——游戏者.贵阳:贵州人民出版社
+6.赫伊津哈.游戏的人.杭州:中国美术学院出版社
+-----------------------------------------------------------------------
+
+【来源篇名】美术教学中幼儿创造性思维的培养
+【英文篇名】Cultivating Children’s Creative Thinking in the Art Teaching
+【来源作者】王昆/郑竞翔
+【基    金】中国学前教育研究会“十二五”立项课题(2011-YB-105)
+【期    刊】学前教育研究
+【第一机构】西安市第一保育院
+【机构名称】[郑竞翔]西安市第一保育院./[王昆]西安市第一保育院.
+【第一作者】王昆
+【中图类号】G61
+【年代卷期】2014,(090):70-72
+【关 键 词】美术教学/幼儿发展/创造性思维
+【基金类别】其它基金/
+【参考文献】
+1.顾娟.美术教学中幼儿创新思维的培养.幼儿教学研究.2010.(3)
+2.毕芳.当前幼儿园美术教育的新变化、面临的问题及其对策.昆明师范高等专科学校学报.2006.(2)
+3.吴丽芳.对学前儿童美术欣赏教育的人文思考.学前教育研究.2013.(6)
+4.李美菊.浅谈幼儿创新思维的培养.当代学前教育.2007.(4)
+5.韩妍容.运用多元智能培养幼儿的创新思维.大庆师范学院学报.2008.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】学前儿童语言与阅读的发展及其促进
+【英文篇名】Language Development and Reading Acquisition in Preschool Children
+【来源作者】舒华/李平
+【基    金】国家社科基金青年项目(09CYY015)
+【期    刊】学前教育研究
+【第一机构】北京师范大学
+【机构名称】[李平]美国宾夕法尼亚州立大学.语言科学中心/[舒华]北京师范大学.认知神经科学与学习国家重点实验室
+【第一作者】舒华
+【中图类号】G61
+【年代卷期】2014,(100):3-10
+【关 键 词】学前儿童/语言发展/阅读能力
+【基金类别】国家社科基金/
+【参考文献】
+1.Perani,D..Neural language networks at birth.Proc Natl Acad Sci.2011.108
+2.Snow,C..Beginning from baby talk: twenty years of research on input and interaction:Input and Interaction in Language Acquisition.London:Cambridge University Press,1994
+3.Kuhl,P..Neural substrates of language acquisition.Annual Review Neuroscience.2008.31
+4.Eimas,P..Speech perception in infants.Science.1971.171
+5.Streeter,L..Language perception of 2-mo-old infants shows effects of both innate mechanisms and experience.Nature.1976.259
+6.Kuhl,P..Early Language acquisition: cracking the speech code.Nature Reviews Neuroscience.2004.(5)
+7.Minagawa-Kawai,Y..Neural attunement processes in infants during the acquisition of a language-specific phonemic contrast.Journal of Neuroscience.2007.27
+8.MacWhinney,B..CHILDES project: Tools for analyzing talk.Hillsdale, NJ:Lawrence Erlbaum
+9.Hao,M..Early vocabulary inventory for Mandarin Chinese.Behavior Research Methods.2008.40
+10.Bates,E..Developmental and stylistic variation in the composition of early vocabulary.Journal of Child Language.1994.21
+11.Dale,P.S..Lexical development norms for young children.Behavior Research Methods, Instruments & Computers.1996.28
+12.Li,P..Early lexical development in a self-organizing neural networks.Neural Networks.2004.17
+13.Li,P..Dynamic self-organization and early lexical development in children.Cognitive Science.2007.31
+14.Hart,B..Meaningful differences in the everyday experience of young American children.Baltimore:Paul H. Brookes Publishing
+15.Liu,S..Early lexical development: A corpus-based study of three languages.Austin, TX:Cognitive Science Society,2008
+16.Hurtado,N..Does input influence uptake? Links between maternal talk, processing speed and vocabulary size in Spanish-learning children.Developmental Science.2008.(11)
+17.Cunningham,A.E..Early reading acquisition and its relation to reading experience and ability 10 years later.Developmental Psychology.1997.33
+18.Dunst,C..Children’s story retelling as a literacy and language enhancement strategy.Asheville, NC:Orelena Hawks Puckett Institute, Center for Early Literacy Learning
+19.Carey,S..Child as word learner:Linguistic theory and psychological reality.Cambridge, MA:MIT Press,1978
+20.Swingley,D..Fast mapping and slow mapping in children’s word learning.Language Learning and Development.2010.(6)
+21.Li,H..Visuo-orthographic, phonological processing, and morphological skills for Chinese Children’s Character Recognition.Journal of Research in Reading.2012.35
+22.Hao,M..Development of young Chinese children’s morphological awareness: The role of semantic relatedness and morpheme type.Applied Psycholinguistics.2011.
+23.Shu,H..Phonological Awareness in Young Chinese Children.Developmental Science.2008.(11)
+24.Lei,L..Developmental trajectories of reading development and impairment from ages 3 to 8 years in Chinese children.Journal of Child Psychology and Psychiatry.2011.52
+25.Pearson,D..Comprehension instruction:Handbook of Reading Research (V2):Longman Publishing Group,1991
+26.Ramus,F..Phonological deficits in specific language impairment and developmental dyslexia: towards a multidimensional model.Brain.2013.136
+27.Lei,L..Developmental trajectories of reading development and impairment from ages 3 to 8 years in Chinese children.Journal of Child Psychology and psychiatry.2011.52
+28.Zhang,Y..Phonological skills and vocabulary knowledge mediate socioeconomic status effects in predicting reading outcomes for Chinese children.Developmental Psychology.2013.(49)
+-----------------------------------------------------------------------
+
+【来源篇名】“语言资源观”与学前儿童语言教育
+【英文篇名】On the Theory of Language-As-Resource and Language Education of Preschool Children
+【来源作者】郑荔
+【基    金】国家社科基金青年项目(09CYY015)
+【期    刊】学前教育研究
+【第一机构】南京师范大学
+【机构名称】[郑荔]南京师范大学.心理学博士后流动站
+【第一作者】郑荔
+【中图类号】G612
+【年代卷期】2014,(100):11-16
+【关 键 词】学前儿童/语言资源观/语言教育
+【基金类别】国家社科基金/
+【参考文献】
+1.胡明杨.西方语言学名著选读.北京:中国人民大学出版社
+2.周瓦.从不同的语言观看美国双语教育之争.比较教育研究.2005.(8)
+3..现代汉语词典.北京:商务印书馆
+4.刘成武.资源和科学概论.北京:科学出版社
+5.王世凯.语言资源观刍议.辽宁工程技术大学学报(社会科学版).2008.(6)
+6.孙琛辉.珍爱语言资源，构建和谐的“多语多言”生活.科学时报.08.21
+7.王世凯.语言资源与语言研究——修辞与语体风格问题.上海:学林出版社
+8.郑荔.学前儿童修辞性语言的出现与培养.学前教育研究.2009.(2)
+9.Brown,R.W..A study in language and cognition.Journal of Abnormal and Social Psychology.1954.(49)
+10.Jenkins,J.M..Cognitive factors and family structure associated with theory of mind development and in young children.Development Psychology.1996.(32)
+11.Gibbs,R.W..Poetics of Mind: Figurative Thought, Language, and Understanding.Cambridge, UK:Cambridge University Press
+12.王希杰.修辞学通论.南京:南京大学出版社
+13.盛冰.语言资本与教育不平等的再生产.教育研究与实验.2005.(2)
+14.丰子恺.艺术与人生.长沙:湖南文艺出版社
+15.郑荔.学前儿童修辞特征语言研究.北京:高等教育出版社
+16.邱质朴.应用语言学的新概念.镇江师专学报(社会科学版).2000.(3)
+17.陈章太.论语言资源.语言文字应用.2008.(1)
+18.李宇明.我国语言资源建设应用问题研究.郑州大学学报(哲学社会科学版).2008.(1)
+19.蒙台梭利.蒙台梭利论儿童教育科学方法.北京:人民教育出版社
+20.赵寄石.学前儿童语言教育.北京:人民教育出版社
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园收取“赞助费”现象的原因分析与对策建议
+【英文篇名】A Case Study on the Phenomenon of “Sponsorship Fees” in Kindergartens
+【来源作者】刘天娥/蔡迎旗
+【基    金】奕阳教育研究院的资助(SEI-QXZ-2013-005)
+【期    刊】学前教育研究
+【第一机构】华中师范大学
+【机构名称】[蔡迎旗]华中师范大学.教育学院/[刘天娥]华中师范大学.教育学院
+【第一作者】刘天娥
+【中图类号】G619.2
+【年代卷期】2014,(100):17-22,30
+【关 键 词】赞助费/保育教育成本/普惠性幼儿园
+【基金类别】其它基金/
+【参考文献】
+1..关于幼儿教育改革与发展的指导意见.2013
+2..幼儿园收费管理暂行办法.2013
+3.赖长春.幼儿园高收费现象的本质、成因及对策.学前教育研究.2009.(2)
+4.教育部财务司.中国教育经费统计年鉴(2011).北京:中国统计出版社
+5.中华人民共和国教育部.幼儿园园数、班数.2013
+6..武汉将查幼儿园乱收费，物价局一周内公布调查结果.2014
+7..武汉市采取措施规范幼儿园收费管理.2013
+8.张燕.学前教育管理学.北京:北京师范大学出版社
+9.刘焱.幼儿园“赞助费”取消后的制度设计.中国教育学刊.2013.(2)
+10..“单独二胎”效应:年新增人口一两百万.2014
+11.秦旭芳.普惠性幼儿园的内涵、衡量标准及其政策建议.学前教育研究.2012.(7)
+12.冯晓霞.大力发展普惠性幼儿园是解决入园难入园贵的根本.学前教育研究.2010.(5)
+13.王化敏.加强幼儿园收费管理，促进幼教事业健康发展:14省、市收费调查结果及政策建议.2013
+14..教育部举行新闻发布会，介绍学前教育三年行动计划有关情况.2014
+15.万慧颖.中国农村学前教育投资模式探索.湖南社会科学.2013.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】县域学前教育资源配置评价模型及其应用
+【英文篇名】A County-level Evaluation Model of Preschool Resource Allocation
+【来源作者】李克勤/郑准
+【基    金】湖南省社会科学基金重点项目(11ZDB058)/湖南省软科学重点项目(2011ZK2011)
+【期    刊】学前教育研究
+【第一机构】湖南第一师范学院
+【机构名称】[郑准]湖南第一师范学院./[李克勤]湖南第一师范学院.
+【第一作者】李克勤
+【中图类号】G61
+【年代卷期】2014,(100):23-30
+【关 键 词】县域学前教育/资源配置/教育均衡发展
+【基金类别】省（市）级基金/
+【参考文献】
+1.郭维平.发达地区学前教育办学体制与管理模式的改革和发展.中国教育学刊.2013.(4)
+2.侯石安.促进我国学前教育发展的财政政策选择.财政研究.2012.(7)
+3.姜盛祥.教育均衡视野下我国幼儿教师的配置与流动.学前教育研究.2011.(7)
+4.李红婷.由民办向公办回归:对湖南农村学前教育政策转向的分析与建议.学前教育研究.2008.(12)
+5.Saaty,T.L..What is the analytic hierarchy process?.Springer Berlin Heidelberg
+6.张铁男.对多级模糊综合评价方法的应用研究.哈尔滨工程大学学报.2002.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园区域活动的来源与挑战
+【英文篇名】Learning Centers Activities: Origin and Challenges
+【来源作者】黄进
+【基    金】国家社会科学基金青年项目(10CSH021)/全国教育科学规划项目(DDA090187)
+【期    刊】学前教育研究
+【第一机构】南京师范大学
+【机构名称】[黄进]南京师范大学.教育科学学院
+【第一作者】黄进
+【中图类号】G61
+【年代卷期】2014,(100):31-35,42
+【关 键 词】区域活动/教育空间/开放教育
+【基金类别】国家社科基金/教育部基金/
+【参考文献】
+1..活动区材料可以共享吗.学前教育.2014.(5)
+2.蒙台梭利.蒙台梭利幼儿教育科学方法.北京:人民教育出版社
+3.波拉德,米歇尔.蒙台梭利传.北京:世界图书出版公司
+4.Kozlovisky,Roy.Architectures of Childhood.Berlinton:Ashgate Publishing Company
+5.Hendrick,Harry.Child Welfare: Historical Dimentions, Contemporary Debates.Bristol:Policy Press
+6.张燕.活动区教育质疑——兼谈如何深入幼教改革.学前教育研究.1996.(6)
+7.道治,黛安·翠斯特.幼儿园创造性课程(上).南京:南京师范大学出版社
+8.杜威,约翰.学校与社会·明日之学校.北京:人民教育出版社
+9.Essa,Eva L..Early childhood Education (Sixth Edition).Belmont:Wadsworth, Cengage Learning
+10.杨莉君.幼儿园区域活动教师指导的有效性研究.教师教育研究.2012.(3)
+11.华爱华.通过活动区游戏来实施指南:3-6岁儿童学习与发展指南解读.北京:人民教育出版社,2013:252
+12.刘焱.游戏通论.北京:北京师范大学出版社
+13.Simon,Carol.Spaces for Children.New York:Plenum
+14.Holloway,Sarah L..Chidren’s Geographies——Playing, Living, learning.New York:Routledge
+15.Spencer,Christopher.Children and Their Environments: Learning, Using, and Designing Space.New York:Cambridge Press
+16.李生兰.活动区教育的现状及对策.学前教育研究.1996.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】西部农村公办小学附属幼儿园课程实施现状与变革
+【英文篇名】A Case Study on Curriculum Implementation in Affiliated Preschool of Public Primary School of West China
+【来源作者】杨晓萍/何孔潮
+【基    金】全国教育科学“十二五”规划2012年度教育部重点课题(DHA120235)/教育部人文社会科学研究规划基金项目(13YJA880091)
+【期    刊】学前教育研究
+【第一机构】西南大学
+【机构名称】[何孔潮]西南大学.教育学部/[杨晓萍]西南大学.教育学部
+【第一作者】杨晓萍
+【中图类号】G612
+【年代卷期】2014,(100):36-42
+【关 键 词】农村公办小学/附属幼儿园/幼儿园课程实施/幼儿园课程变革
+【基金类别】教育部基金/
+【参考文献】
+1.中国教育部.国家中长期教育改革与发展规划纲要(2010—2020).2013
+2.程洁.一切站在孩子的立场——访十二届全国政协会员刘焱教授.学前教育.2014.(4)
+3.张颖.挤在夹缝中的幼儿园——基于县域学校附属幼儿园的生存状况调查.中国农村教育.2011.(7)
+4.王萍.幼儿园课程实施现状与特征的个案研究:博士学位论文:东北师范大学,2010
+5.陈向明.质的研究方法与社会科学研究.北京:教育科学出版社
+6.沈丽华.幼儿园课程开发中社区资源的整合.学前教育研究.2010.(5)
+7.向海英.幼儿园课程创生的资源开发与利用策略.学前教育研究.2013.(10)
+8.严仲连.幼儿园课程实施适应取向的内涵、特点及影响因素.学前教育研究.2010.(2)
+9.左瑞勇.在文化哲学视域下重新审视幼儿园课程内容的选择.学前教育研究.2010.(9)
+10.郑志辉.幼儿教师课程理解的内涵、现状及其社会文化影响因素.学前教育研究.2010.(5)
+11.叶俊萍.优化生活化教育环境，提升课程建设质量.学前教育研究.2010.(9)
+12.唐利平.幼儿园生成课程的内涵与建构——以贵州省适应性课程为例.学前教育研究.2013.(12)
+-----------------------------------------------------------------------
+
+【来源篇名】儿童同伴冲突解决策略差异的文化发生学探索
+【英文篇名】A Cross-cultural Research on Children’s Peer Conflict Resolution Strategies
+【来源作者】张凤/冯晓霞
+【基    金】北京师范大学教育学部冯晓霞教授和日本名古屋大学教育学部氏家达夫教授合作研究课题“儿童冲突管理技能发展过程的跨文化比较”
+【期    刊】学前教育研究
+【第一机构】国家开放大学
+【机构名称】[冯晓霞]北京师范大学.教育学部/[张凤]国家开放大学.教育学院
+【第一作者】张凤
+【中图类号】G61
+【年代卷期】2014,(100):43-51
+【关 键 词】同伴冲突/冲突解决策略/地域文化/民族文化
+【基金类别】其它基金/
+【参考文献】
+1.波普诺,戴维.社会学.北京:中国人民大学出版社
+2.Berry,J.W..Descendants of a model: commentary on Jahoda.Cultural Psychology.1995.(1)
+3.Berry,J.W..Temne and Eskimo perceptual skills.International Journal of Psychology.1996.(1)
+4.哈经雄.民族教育学通论.北京:教育科学出版社
+5.李慕寒.试论中国地域文化的地理特征.人文地理.1996.3(11)
+6.武文.民族记忆与地域情韵.太原:山西教育出版社
+7.罗荣渠.现代化新论——世界与中国的现代化进程.北京:商务印书馆
+8.安德烈.家庭史(第2卷).北京:三联书店
+9.余华林.中国现代家庭文化嬗变研究:硕士学位论文:首都师范大学,2002
+10.王跃生.中国当代家庭结构变动分析.北京:中国社会科学出版社
+11.张岱年.中国文化的基本精神.齐鲁学刊.2003.(5)
+12.雍少宏.论回族群体心理的传统性与现代性.回族研究.2003.(4)
+13.杨文炯.互动、调试与重构——西北城市回族社区及其文化变迁研究.北京:民族出版社
+14.李德洙.都市化和民族的现代化.北京:中国物资出版社
+15.小约翰,斯蒂文.传播理论.北京:中国社会科学出版社
+16.白贵.论回族发展过程中传媒资源利用的几个问题:宁夏社会科学院,2003
+-----------------------------------------------------------------------
+
+【来源篇名】中班幼儿同伴冲突应对策略及教师干预态度
+【英文篇名】Research on Coping Strategies for Middle-class Preschool Peer Conflict
+【来源作者】向海英/孙文杰
+【基    金】国家社会科学基金一般课题(02BX065)/国家社会科学基金一般课题(BHA100049)/教育部人文社科一般课题(09YJA880088)
+【期    刊】学前教育研究
+【第一机构】山东师范大学
+【机构名称】[孙文杰]山东师范大学.教育学院/[向海英]山东师范大学.教育学院
+【第一作者】向海英
+【中图类号】G61
+【年代卷期】2014,(100):52-57
+【关 键 词】中班幼儿/同伴冲突/应对策略
+【基金类别】国家社科基金/教育部基金/
+【参考文献】
+1.赵金霞.4-6岁儿童人际问题解决策略的发展及其教育启示.学前教育研究.2006.(12)
+2.李幼穗.儿童社会性发展及其培养.上海:华东师范大学出版社
+3.刘晶波.师幼互动行为研究——我在幼儿园里看到了什么.南京:南京师范大学出版社
+4.刘晓静.幼儿同伴冲突行为研究:硕士学位论文:南京师范大学,2002
+5.蒋秋芳.中班幼儿同伴冲突及应对策略研究:硕士学位论文:南京师范大学,2007
+6.周晓虹.现代社会心理学.上海:上海人民出版社
+7.李丽君.幼儿同伴冲突的教育价值及对策初探:硕士学位论文:西南师范大学,2000
+8.孙华平.儿童之间的冲突及心理价值.聊城师范学院学报(哲学社会学版).1995.(4)
+9.刑少颖.幼儿纠纷现象的调查和分析.学前教育研究.1997.(2)
+10.赵美凤.让幼儿间的冲突成为资源.山东教育(幼教园地).2005.(3)
+11.陈会昌.儿童社会性发展的特点、影响因素及其测量.心理发展与教育.1994.(4)
+12.邹泓.青少年同伴关系的发展特点、功能及影响因素的研究:博士学位论文:北京师范大学,1998
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园教师培养与培训的科学规划——基于在实践中落实《3-6岁儿童学习与发展指南》的思考
+【英文篇名】Make A Good Plan for Training and Developing Kindergarten Teachers according to the Guide
+【来源作者】王迎兰
+【基    金】国家社会科学基金一般课题(BHA100049)
+【期    刊】学前教育研究
+【第一机构】人民教育出版社
+【机构名称】[王迎兰]人民教育出版社.
+【第一作者】王迎兰
+【中图类号】G615
+【年代卷期】2014,(100):58-60
+【关 键 词】幼儿园教师/专业素养/职前培养/职后培训
+【基金类别】国家社科基金/
+【参考文献】
+1.李天顺.在《3-6岁儿童学习与发展指南》培训班上的讲话.学前教育研究.2012.(12)
+2.孟宁.在《3-6岁儿童学习与发展指南》国家培训者培训班上的讲话.学前教育研究.2012.(12)
+3.李季湄.《3-6儿童学习与发展指南》解读.北京:人民教育出版社
+4.彭世华.幼儿园确立幼儿学习与发展“合理期望”的基本方法.学前教育研究.2013.(12)
+-----------------------------------------------------------------------
+
+【来源篇名】博物意识与幼儿园课程实践的新探索
+【英文篇名】Kindergarten Curriculum under the Guidance of Museum Awareness
+【来源作者】陆淑娴
+【基    金】全国教育科学“十二五”规划2012年度重点课题(DHA120244)
+【期    刊】学前教育研究
+【第一机构】南京市第一幼儿园
+【机构名称】[陆淑娴]南京市第一幼儿园.
+【第一作者】陆淑娴
+【中图类号】G612
+【年代卷期】2014,(100):61-63
+【关 键 词】博物意识/课程实践/幼儿园课程
+【基金类别】教育部基金/
+【参考文献】
+1.陆艳.我园的“幼儿博物馆”.早期教育(教师版).2012.(11)
+2.郑奕.博物馆教育活动研究:博士学位论文:复旦大学,2012
+3.王奕隆.论博物馆意识.中国博物馆.1992.(2)
+4.比因,J.A..课程综合.台北:学富文化事业有限公司
+-----------------------------------------------------------------------
+
+【来源篇名】0-6岁儿童一体化亲子课程的实施策略
+【英文篇名】Implementation Strategies of Integration Parenting Course for Children
+【来源作者】吴邵萍
+【基    金】江苏省教育科学“十二五”规划立项重点课题(B-b/2011/02/106)
+【期    刊】学前教育研究
+【第一机构】南京市北京东路小学附属幼儿园
+【机构名称】[吴邵萍]南京市北京东路小学附属幼儿园.
+【第一作者】吴邵萍
+【中图类号】G612
+【年代卷期】2014,(100):64-66
+【关 键 词】亲子课程/课程实施/家庭教育
+【基金类别】省（市）级基金/
+【参考文献】
+1.怀特,伯顿·L..从出生到3岁:婴幼儿能力发展与早期教育权威指南.北京:京华出版社
+2.吴邵萍.养育视野下0-6岁儿童一体化亲子课程的构建.学前教育研究.2013.(9)
+3.梅迪纳,约翰.让孩子的大脑自由.杭州:浙江人民出版社
+4.菲尔德,蒂法妮.婴儿世界.成都:四川教育出版社
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园民族舞蹈教学的实施策略
+【英文篇名】On the Teaching Strategies of Kindergarten Folk Dancing Education
+【来源作者】黄芳
+【基    金】厦门市教育科学“十一五”规划课题(046)
+【期    刊】学前教育研究
+【第一机构】福建省厦门市莲龙幼儿园
+【机构名称】[黄芳]福建省厦门市莲龙幼儿园.
+【第一作者】黄芳
+【中图类号】G612
+【年代卷期】2014,(100):67-69
+【关 键 词】幼儿舞蹈/民族舞蹈/舞蹈教学
+【基金类别】其它基金/
+【参考文献】
+1.薛宝.幼儿舞蹈创编刍议.学前教育研究.1995.(4)
+2.王丹.融合民族民间音乐的幼儿园综合艺术教育.学前教育(教师版).2010.(6)
+3.王印英.幼儿舞蹈启蒙教育的新理念.学前教育研究.2012.(12)
+4.许丽萍.运用艺术同构开展幼儿民族音乐欣赏活动的策略.学前教育研究.2013.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园中层管理者驻班管理探索
+【英文篇名】Exploration of Middle Managers of Kindergarten in the Class
+【来源作者】王丽娟/李兰芳
+【基    金】甘肃省教育厅基础教育处委托课题“甘肃省幼儿园分级管理与分类评价体系构建研究”
+【期    刊】学前教育研究
+【第一机构】兰州城市学院实验幼儿园
+【机构名称】[李兰芳]兰州城市学院.学前教育研究所/[王丽娟]兰州城市学院实验幼儿园.
+【第一作者】王丽娟
+【中图类号】G61
+【年代卷期】2014,(100):70-72
+【关 键 词】幼儿园管理/中层管理者/驻班管理
+【基金类别】其它基金/
+【参考文献】
+1.马春玉.幼儿园和美管理文化的构建策略.学前教育研究.2013.(8)
+2.冯晓霞.从幼儿教师的职业感受看幼儿园管理——三个有关研究所反映的问题与启示.早期教育(教师版).2004.(9)
+3.王星.论组织文化在幼儿园管理中的作用.内蒙古师大学报(哲学社会科学版).1998.(8)
+4.陈妍.“反思”对幼儿教师专业成长作用的个案研究.学前教育研究.2010.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】儿童观简论
+【英文篇名】On the View of the Child
+【来源作者】蒋雅俊/刘晓东
+【基    金】江苏省“六大人才高峰”资助项目(2012-JY-004)
+【期    刊】学前教育研究
+【第一机构】南京师范大学
+【机构名称】[刘晓东]南京师范大学.教育科学学院/[蒋雅俊]南京师范大学.教育科学学院
+【第一作者】蒋雅俊
+【中图类号】G61
+【年代卷期】2014,(110):3-8,16
+【关 键 词】儿童观/儿童中心/儿童教育/现代教育
+【基金类别】省（市）级基金/
+【参考文献】
+1.福柯.词与物:人文科学考古学.上海:上海三联书店
+2.福柯.福柯集.上海:上海远东出版社
+3.卢梭.爱弥儿.北京:商务印书馆
+4.杜威.学校与社会，明日之学校.北京:人民教育出版社
+5.蒙台梭利.蒙台梭利幼儿教育科学方法.北京:人民教育出版社
+6.刘晓东.论儿童教育的古今中西问题.南京师大学报(社会科学版).2010.(6)
+7.刘晓东.文化与儿童身体的发育.教育理论与实践.1997.(1)
+8.马克思.1844年经济学──哲学手稿.北京:人民出版社
+9.刘晓东.儿童教育新论.南京:江苏教育出版社
+10.兰德曼.哲学人类学.贵阳:贵州人民出版社
+11.杜威.民主主义与教育.北京:人民教育出版社
+12.蒙台梭利.童年的秘密.北京:人民教育出版社
+13.弗洛姆.为自己的人.北京:三联书店
+14.裴斯泰洛齐.裴斯泰洛齐教育论著选.北京:人民教育出版社
+15.康德.道德形而上学原理.上海:上海人民出版社
+16.刘晓东.论童年在人生中的位置.南京师大学报(社会科学版).2013.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】政府购买学前教育服务的方式及其特点与影响
+【英文篇名】On the Government’s Purchasing Preschool Education Policy
+【来源作者】刘颖/冯晓霞
+【基    金】教育部哲学社会科学重大攻关项目(10JZD0035)
+【期    刊】学前教育研究
+【第一机构】南京师范大学
+【机构名称】[冯晓霞]北京师范大学.教育学部/[刘颖]南京师范大学.教育科学学院
+【第一作者】刘颖
+【中图类号】G61
+【年代卷期】2014,(110):9-16
+【关 键 词】购买服务/教育券/购买学位
+【基金类别】教育部基金/
+【参考文献】
+1.中共青岛市委党校课题组.政府向社会组织购买公共服务的制度化保障机制研究.青岛行政学院学报.2009.(12)
+2.教育部门户网站.国家中长期教育改革和发展规划纲要(2010—2020年).2010
+3.教育部门户网站.国务院关于当前发展学前教育的若干意见.2011
+4.姚根静.基于教育券思想对我国幼儿教育券政策的分析.学前教育研究.2013.(10)
+5.Cleveland,G..Financing ECEC services in OECD countries.2012
+6.Meeting Great Expectations: Integrating Early Education Program Standards in Child Care
+7.Department of Education Employment and Workplace Relations.Child Care Service Handbook 2010—2011.2011
+8.香港教育统筹局.财务委员会讨论文件(FCR(2006-07)29.2011
+9.萨瓦斯.民营化与公私部门的伙伴关系.北京:中国人民大学出版社
+10.Mocan,H..Can Consumers Detect Lemons? Impormation Asymmetry in the Market for Child Care.2012
+11.张娜.不同主体视野中“好幼儿园”标准的比较.学前教育研究.2012.(3)
+12.Disparities in California's child care subsidy system: A lookat teacher education, stability, and diversity
+13.Rush,E..Has the government been selling out Australia's children?.2011
+14.蔡迎旗.幼儿教育财政投入与政策.北京:教育科学出版社
+15.Warner,M.E..Consequences of Implementing a Child Care Voucher Scheme: Evidence from Australia, the Netherlands and the USA.Social Policy & Administration.2011.45(5)
+16.谭璇.香港学前教育券研究:硕士学位论文:山东大学,2011
+17.幼儿教育券政策效益评估——从机构数量、服务质量及社福资源分配等面向探讨之研究(内政部儿童局委托研究项目)
+18.Sparkes,J..An evaluation of the English nursery voucher scheme 1996—1997.Education Economics.1998.6(2)
+19.简楚瑛.幼儿教育与保育的行政与政策.上海:华东师范大学出版社
+20.Brennan,D..Indirect Policy Tools: Demand-Side Funding and Lessons to be Learned: Early Childhood Education and Care,2010
+21.Noailly,J..Impact of market forces on the provision of childcare: Insights from the 2005 Childcare Act in the Netherlands:CPB Memorandum,2007
+22.Besharov,D..Child-care vouchers and cash payments.Washington, DC:The Brookings Institution Press
+23.丁秀棠.“普惠性”目标定位下民办学前教育的现状与发展.学前教育研究.2013.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】国外企业支持幼儿教育的经验与启示
+【英文篇名】Experiences of Enterprises’ Supporting Early Care and Education in Foreign Countries
+【来源作者】王玲艳
+【基    金】教育部哲学社会科学重大攻关项目(10JZD0035)/教育部人文社会科学研究青年基金项目(12YJC880102)/江苏省教育科学“十二五”规划重大课题(A/2011/05)
+【期    刊】学前教育研究
+【第一机构】南京师范大学
+【机构名称】[王玲艳]南京师范大学.教育科学学院
+【第一作者】王玲艳
+【中图类号】G61
+【年代卷期】2014,(110):17-22
+【关 键 词】社会力量办学/企业社会责任/早期保育教育
+【基金类别】教育部基金/省（市）级基金/
+【参考文献】
+1..Spotlight: Corporate Social Responsibility in Education, Three Sticks e News letter.2013
+2.Friedman,D..Bottom line value from back-up child care.Solutions,2000
+3.Sallee,Slvin L..Corporate Sponsored Child Care: Options and Advantages:Department of education,1986
+4..Assets, Gaps, and a Way Forward: A Report on Early Childhood Care and Education in Wheeling:Grand Victoria Foundation,2008
+5..On-Site Child Care: A Solution to Work and Life Issues for Employees.2013
+6..Effect of Child Care Problems on the Workplace:Families and Work Institute,1986:3
+7.Friedman,Dana E..Employer Supports for Parents with Young Children.Future of Children.2001.11(1)
+8.吉尔伯特,尼尔.社会福利政策导论.上海:华东理工大学出版社
+9..Strong Foundations: Early childhood care and education, EFA Global Monitoring Report,2007:184
+10.U.S. Department of the treasury.Investing in child care: challenges facing working parents andthe private sector response.Washington, D.C.:U.S. Department of the Treasury,1998
+11.Herman,Alexis M..Meeting the needs of today's workforce: child care best practices:U.S. Department of Labor,1998
+12.North Carolina Governor's Office.Helping Working Parents: Child Care Options For Business.Raleigh,1981
+13.Employer Options for Child Care.Effective strategies for recruitment and retention,2001
+14.Beierlein,James G..Van Horn onsite/offsite child care center, 1991.2013
+15.Friedman,Dana.Corporate financial assistance for child care,1985
+16.Dover,M.A..Incorporated Employer-supported child care: Investing in Human Resources.House Publishing Company
+17..Employers and child care: development of a new employee benefit, A BNA Special Report:Thebureau of national affairs, Washington, D.C, Inc,1984
+18.The child care administration.Maryland child care business partnership final report,2000
+19..High Quality On-site Childcare at Cleveland Children's Academy.2013
+20..2000 Survey of work/life initiatives, New York: Bright Horizons Family Solutions.William M. Mercer, Inc
+21.Connelly,Rachel.Kids at work: the value of employer-sponsored on-site child care centers.Kalamazoo MI:W.E. Upjohn Institute for Employment Research,2004
+22.Panszczyk,Linda.US master employee benefits guide.CCH Incorporated
+23.杰克肖可夫.从神经细胞到社会成员——儿童早期发展的科学.南京:南京师范大学出版社
+24.Keyser,Sheldon.Child Care.Economic Development Journal.2002.
+-----------------------------------------------------------------------
+
+【来源篇名】长株潭三市普惠性民办幼儿园建设存在的问题与对策建议
+【英文篇名】On the Building of Inclusive Private Kindergartens in Changsha, Zhuzhou and Xiangtan Cities
+【来源作者】雷芳
+【基    金】湖南省教育科学“十二五”规划省级重大委托课题(XJK011DUT001)/湖南省教育科学“十二五”规划一般资助课题(XJK012BJJ006)
+【期    刊】学前教育研究
+【第一机构】湖南省教育科学研究院
+【机构名称】[雷芳]湖南省教育科学研究院.民办教育研究所
+【第一作者】雷芳
+【中图类号】G61
+【年代卷期】2014,(110):23-28
+【关 键 词】民办幼儿园/普惠性幼儿园/学前教育发展
+【基金类别】省（市）级基金/
+【参考文献】
+1.秦旭芳.普惠性幼儿园的内涵、衡量标准及其政策建议.学前教育研究.2012.(7)
+2.丁秀棠.“普惠性”目标定位下民办学前教育的现状与发展.学前教育研究.2013.(3)
+3.杨莉君.湖南学前教育公共服务体系之师资保障体系的建构.学前教育研究.2013.(10)
+4.万慧颖.中国农村学前教育投资模式探索.湖南社会科学.2013.(5)
+5.杨莉君.农村儿童家庭对学前教育公共服务的基本需求及对策研究——以湖南省为例.湖南师范大学教育科学学报.2013.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】美国儿童保育援助项目的历史、现状与问题
+【英文篇名】On the Child Care Assistance Programs of America
+【来源作者】刘晓红/李帅英
+【基    金】河南省哲学社会科学规划项目(2013JY032)/河南省教育科学规划课题(2009-JKGHAZ-0062)
+【期    刊】学前教育研究
+【第一机构】河南师范大学
+【机构名称】[李帅英]河南师范大学.教育与教师发展学院/[刘晓红]河南师范大学.教育与教师发展学院
+【第一作者】刘晓红
+【中图类号】G61
+【年代卷期】2014,(110):29-34
+【关 键 词】美国儿童保育援助/援助分配/普惠性保育服务
+【基金类别】省（市）级基金/
+【参考文献】
+1.张宇.美国联邦政府干预学前教育的历史演进研究:硕士学位论文:东北师范大学,2010
+2.姚建平.美国儿童福利制度简析.青少年犯罪问题.2005.(5)
+3.National Center for Children in Poverty.National participant and spending data for the federal Child and Dependent Care Tax Credit.2014
+4.Gish,M..Child care: Funding and spending under federal block grants.Washington, DC:Congressional Research Service, Library of Congress,2002:84
+5.Collins,A..National study of child care for low-income families: State and community sub-study interimreport.Boston:Abt Associates,2000:38
+6.Doherty,K.M..Early learning.Education Week.2002.(17)
+7.Barnett,W.S..State of preschool: 2003 statepre school yearbook.New Brunswick, NJ:National Institute for Early Education Research, Rutgers, The State University of New Jersey
+8.Children's Defense Fund.Good child care assistance policies help low-income working families afford quality child care and help children succeed.2014
+9.陈晓丽.我国儿童福利现状面面观.中国民政.2011.(8)
+10.沙莉.通过立法强化政府在学前教育事业发展中的职责——美国的经验及其对我国的启示.学前教育研究.2007.(2)
+11.魏旭.城市儿童消费及消费亲子沟通现状与建议.学前教育研究.2013.(8)
+12.王善安.美国学前教育资助项目对我国学前教育的启示.现代中小学教育.2013.(10)
+13.向美丽.美国“儿童保育与发展专款”项目的形成、内容与特点.学前教育研究.2011.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园教学活动中信息技术应用现状分析
+【英文篇名】Analysis and Thinking about Using Information Technology in Preschool Instruction Activities
+【来源作者】郝兆杰/梁芳芳/肖琼玉
+【基    金】河南省哲学社会科学规划项目(2013CJY009)
+【期    刊】学前教育研究
+【第一机构】河南大学
+【机构名称】[肖琼玉]河南大学.现代教育研究所/[梁芳芳]河南大学.现代教育研究所/[郝兆杰]河南大学.现代教育研究所
+【第一作者】郝兆杰
+【中图类号】G61
+【年代卷期】2014,(110):35-41
+【关 键 词】幼儿园教学活动/信息技术/教育媒介
+【基金类别】省（市）级基金/
+【参考文献】
+1.郭力平.信息技术与早期教育.上海:华东师范大学出版社
+2.岳亚平.学前教育学.郑州:郑州大学出版社
+3.朱书慧.我国学前教育信息化建设与应用研究现状.电化教育研究.2013.(10)
+4..中央电化教育馆电化教育电子音像.2014
+5.黄宇星.信息技术与课程整合策略.电化教育研究.2003.(1)
+6.黄革成.多媒体技术在幼儿教育中的作用.学前教育研究.2002.(3)
+7.冯晓霞.信息技术与学前教育——幼儿学与教的视角.中国教育信息化.2011.(18)
+8.李季湄.幼儿园教育.北京:北京师范大学出版社
+9.李榕明.共建共享下的学前教育数字化资源开发现状及策略研究:硕士学位论文:河南大学,2013
+10.虞永平.学前教育三年行动计划“重在行动”.人民教育.2011.(6)
+11.方兵.数字化学前教育资源库的构建研究.江苏广播电视大学学报.2013.(5)
+12.赵先政.动画是学前教育不可忽视的课程资源.学前课程研究.2008.(2)
+13.阎瑞华.现代教育技术辅助学前教育教师教学境况调查分析及对策研究.中国教育信息化.2013.(9)
+14.张亮.基于生态化视角的学前教育信息化区域资源建设研究:硕士学位论文:河南大学,2012
+-----------------------------------------------------------------------
+
+【来源篇名】现象学视域下幼儿园教师教育的实践性缺失与提升
+【英文篇名】The Absence and Raising of Children Teachers’ Education Practice in the View of Husserl’s Phenomenology
+【来源作者】叶秀丹/黄秀兰
+【基    金】海南省哲学社会科学规划课题(HNSK(Z)12-58)/海南师范大学第六批校级重点建设课程(HSKJ1004)
+【期    刊】学前教育研究
+【第一机构】海南师范大学
+【机构名称】[黄秀兰]海南师范大学.教育科学学院/[叶秀丹]海南师范大学.教育科学学院
+【第一作者】叶秀丹
+【中图类号】G61
+【年代卷期】2014,(110):42-46,54
+【关 键 词】现象学/教师教育/实践
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.胡塞尔.哲学作为严格的科学.北京:商务印书馆
+2.胡塞尔.纯粹现象学通论:纯粹现象学和现象学哲学的观念(第1卷).北京:商务印书馆
+3.胡塞尔.现象学的观念.上海:上海译文出版社
+4.胡塞尔.逻辑研究(第2卷).上海:上海译文出版社
+5.倪梁康.中国现象学与哲学评论——现象学的基本问题(第2辑).上海:上海译文出版社
+6.倪梁康.中国现象学与哲学评论——现象学的基本问题(第1辑).上海:上海译文出版社
+7.胡塞尔.生活世界的现象学.上海:上海译文出版社
+8.倪梁康.胡塞尔现象学概念通释(修订版).北京:生活读书新知三联书店
+9.胡塞尔.胡塞尔选集.上海:上海三联出版社
+10.马雪琴.教师专业化视角下的幼儿园教师教育问题探析.天津师范大学学报(基础教育版).2013.(7)
+11.彭海蕾.中美高校学前教育专业实践课程的比较.学前教育研究.2012.(2)
+12.黄绍文.幼儿教师专业发展的现实困境.学前教育研究.2006.(6)
+13.康建琴.对大专层次幼儿教师教育专业课程设置状况的调查研究.忻州师范学院学报.2008.(5)
+14.米庆华.教师教育课程标准下专科学前教育专业实践教学探析.吉林省教育学院学报.2012.(7)
+15.胡塞尔.欧洲科学危机和超验现象学.上海:上海译文出版社
+16.左瑞红.农村幼儿园教师的个人培训需求分析.继续教育研究.2013.(7)
+17.倪梁康.面对实事本身:现象学经典文选.北京:东方出版社
+18.赵南.新时代背景下对学前教育专业专科人才培养目标的构想.学前教育研究.2009.(8)
+19.舍勒.爱的秩序.北京:生活读书新知三联书店
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿亲社会行为现状及其影响因素
+【英文篇名】On Children’s Prosocial Behavior And Its Influence Factors
+【来源作者】阮素莲
+【基    金】福建省教育厅社会科学研究2010年度课题(JBS10291)/江苏省教育科学“十二五”规划2013年度重点课题(B-b/2012/01/067)/泉州幼儿师范高等专科学校2014年度课题(QY2014-03)
+【期    刊】学前教育研究
+【第一机构】福建泉州幼儿师范高等专科学校
+【机构名称】[阮素莲]福建泉州幼儿师范高等专科学校.
+【第一作者】阮素莲
+【中图类号】G61
+【年代卷期】2014,(110):47-54
+【关 键 词】儿童发展/亲社会行为/影响因素
+【基金类别】其它基金/省（市）级基金/
+【参考文献】
+1.陈帼眉.学前心理学.北京:北京师范大学出版社
+2.张野.学前儿童亲社会性的调查研究.学前教育研究.2006.(5)
+3.Kostdnik,Marjorie L..幼儿社会性发展指南:从理论到实践.北京:人民教育出版社
+4.Radke-Yarrow,M..Prosocial Dispositions and Behavior:Manual of Child Psychology (Vol.4): Socialization, Personality, and Social Development.New York:John Wily & Sons,1983
+5.Shigetomi,C.C..Sex Differences in Children's Altruistic Behaviors and Reputations for Helpfulness.Developmental Psychology.1981.(17)
+6.Power,T.G..Patterns of Early Socialization: Mother-and Father-Infant Interaction in the Home.International Journal of Behavioral Development.1986.(9)
+7.林惠娟.幼儿利他社会行为背景因素之探讨——从与父母的访谈说起.2011
+8.艾森伯格,南茜.爱心儿童——儿童的亲社会行为研究.成都:四川教育出版社
+9.Peterson,P..Influence of Age, Task Competence, and Responsibility Focus on Children’s Altruis.Developmental Psychology.1983.(19)
+10.李丹.儿童亲社会行为的发展.上海:上海科学普及出版社
+11.Hoffman,M.I..Altruistic Behavior and the Parent-child Relationship.Journal of Personality and Psychology.1975.(31)
+12.杨丽珠.幼儿社会性发展与教育.大连:辽宁师范大学出版社
+13.连榕.新手—熟手—专家型教师心理特征的比较.心理学报.2004.(1)
+14.吴志宏.新编教育管理学.上海:华东师范大学出版社
+15.李丹.儿童亲社会行为发展研究述评.心理科学.2001.(3)
+16.王楠.移情训练对5—6岁幼儿亲社会行为的影响研究:硕士学位论文:陕西师范大学,2012
+17.王美芳.艾森伯格的亲社会行为理论模式.心理学动态.1997.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园英语教育的生活价值取向
+【英文篇名】Children’s Living Value Orientation for Kindergarten English Education
+【来源作者】梁斌
+【基    金】湖南省高校科研项目2012年青年项目(12B013)
+【期    刊】学前教育研究
+【第一机构】湖南师范大学
+【机构名称】[梁斌]湖南师范大学.英语教学部
+【第一作者】梁斌
+【中图类号】G61
+【年代卷期】2014,(110):55-57
+【关 键 词】幼儿园英语教育/生活价值/幼儿园课程
+【基金类别】省（市）级基金/
+【参考文献】
+1.侯莉敏.儿童的生活与教育.北京:教育科学出版社
+2.杨宁.儿童早期发展与教育中的身体问题——五论进化、发展与儿童早期教育.学前教育研究.2014.(1)
+3.刘晓东.解放儿童.南京:江苏教育出版社
+4.章兼中.英语教育心理学.北京:警官教育出版社
+5.唐淑.学前教育史.沈阳:辽宁师范大学出版社
+6.张家琼.幼儿园教学评价的知识论基础.学前教育研究.2008.(6)
+7.石中英.教育哲学.北京:北京师范大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】微信公众平台在幼儿园管理中的运用与开发
+【英文篇名】On the Application of Micro Message Public Platform in Kindergarten Management
+【来源作者】何秀凤
+【基    金】福建省泉州市教育科学“十二五”规划立项课题“幼儿科学探究活动生活化的研究”
+【期    刊】学前教育研究
+【第一机构】福建省晋江市灵源街道灵水中心幼儿园
+【机构名称】[何秀凤]福建省晋江市灵源街道灵水中心幼儿园.
+【第一作者】何秀凤
+【中图类号】G61
+【年代卷期】2014,(110):58-60
+【关 键 词】微信公众平台/幼儿园管理/教育技术
+【基金类别】其它基金/
+【参考文献】
+1.罗丽娟.幼儿园网站建设的调查与思考.教育导刊.2009.(4下)
+2.何磊.信息技术与幼儿教育的整合.学前教育研究.2009.(1)
+3.张华.信息技术在幼儿教育中的作用.现代教育科学(小学教师).2011.(11)
+4.刘建国.对信息技术教育背景下的幼儿教育管理探究.教师博览(科研版).2012.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园保教工作优化现状及其改进策略
+【英文篇名】On the Optimization of the Care and Education of Kindergarten
+【来源作者】张晓辉
+【基    金】湖南省普通高等学校教学改革项目(590)/湖南省哲学社会科学基金项目(11YBB030)
+【期    刊】学前教育研究
+【第一机构】长沙师范学院第二附属幼儿园
+【机构名称】[张晓辉]长沙师范学院第二附属幼儿园.
+【第一作者】张晓辉
+【中图类号】G61
+【年代卷期】2014,(110):61-63
+【关 键 词】幼儿园保教工作/幼儿园管理/教育质量
+【基金类别】省（市）级基金/
+【参考文献】
+1.彭兵.武汉市幼儿园保教质量评估与监测现状及发展对策.学前教育研究.2013.(8)
+2.刘焱.试论托幼机构教育质量评价的几个问题.学前教育研究.1998.(3)
+3.邱芸.学前教育个人投资动因与决策分析.当代学前教育.2012.(1)
+4.吕嵘.浅谈在改革大潮中幼儿园自我管理的发展趋势.黑龙江史志.2005.(4)
+5.冯艳慧.幼儿园教师对保育和教育价值的选择比较.学前教育研究.2014.(5)
+6.Sheridan,S..Dimensions of pedagogical quality in preschool.International Journal of Early Years Education.2007.(15)
+-----------------------------------------------------------------------
+
+【来源篇名】农村幼儿园玩教具的开发与管理
+【英文篇名】On the Development of Toys and Teaching Aids in Rural Kindergartens
+【来源作者】吴群英
+【基    金】教育部人文社科项目(12YJA880150)
+【期    刊】学前教育研究
+【第一机构】福建省晋江市桥南中心幼儿园
+【机构名称】[吴群英]福建省晋江市桥南中心幼儿园.
+【第一作者】吴群英
+【中图类号】G61
+【年代卷期】2014,(110):64-66
+【关 键 词】农村幼儿园/玩教具/教育资源
+【基金类别】教育部基金/
+【参考文献】
+1..2013—2017年中国玩具行业市场调研及投资机会报告.2014
+2.单小英.农村学前班如何自制教具.学前教育研究.1994.(4)
+3.陈鹤琴.陈鹤琴教育文集.北京:北京出版社
+4.侯娟珍.教师指导幼儿自制玩具的策略.学前教育研究.2011.(7)
+-----------------------------------------------------------------------
+
+【来源篇名】民间传统儿童游戏的传承与创新
+【英文篇名】On the Inheritance and Innovation of Traditional Folk Games
+【来源作者】罗红辉
+【基    金】湖南省教育科学“十二五”规划2012年度项目(XJK012CZXX108)
+【期    刊】学前教育研究
+【第一机构】湖南省人民政府直属机关第一幼儿院
+【机构名称】[罗红辉]湖南省人民政府直属机关第一幼儿院.
+【第一作者】罗红辉
+【中图类号】G61
+【年代卷期】2014,(110):67-69
+【关 键 词】民间游戏/传统文化/教育资源
+【基金类别】省（市）级基金/
+【参考文献】
+1.曹中平.民间游戏及其相关研究——文化学与教育学的双重视野.银川:宁夏人民出版社
+2.周兢.中国民间游戏.南京:江苏少年儿童出版社
+3.罗红辉.幼儿园民间体育游戏存在的问题与解决对策.学前教育研究.2012.(6)
+4.赵素英.民间游戏在幼儿园教学中的改编创新与资源整合.环球市场信息导报.2013.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园促进教师专业化成长的策略
+【英文篇名】How to Promote Preschool Teachers’ Professional Development
+【来源作者】郭茜
+【基    金】教育部人文社会科学规划基金项目(11YJA880142)
+【期    刊】学前教育研究
+【第一机构】陕西省西安市第一保育院
+【机构名称】[郭茜]陕西省西安市第一保育院.
+【第一作者】郭茜
+【中图类号】G61
+【年代卷期】2014,(110):70-72
+【关 键 词】幼儿园教师/教师专业化/教师教育
+【基金类别】教育部基金/
+【参考文献】
+1.周雪华.教师专业化成长的有效途径.学前教育研究.2005.(1)
+2.王丽娟.促进幼儿园新入职教师专业发展的策略.学前教育研究.2013.(11)
+3.张世义.从问题关注的视角构建幼儿园教师专业发展的阶段.学前教育研究.2013.(4)
+4.吴岚葭.民办幼儿教师专业化发展的困境及出路.安顺学院学报.2012.(12)
+5.夏榆凌.论幼儿园转岗教师专业发展的现状及问题.课程教育研究.2012.(10)
+6.胡金姣.对幼儿教师专业化发展的思考.学前教育研究.2009.(8)
+-----------------------------------------------------------------------
+
+【来源篇名】教师对幼儿情绪表达事件的态度及其意义
+【英文篇名】On Teachers’ Attitude to Children’s Emotional Expression Events
+【来源作者】但菲/梁美玉/薛瞧瞧
+【基    金】中国学前教育研究会课题(2011-YB-282)
+【期    刊】学前教育研究
+【第一机构】沈阳师范大学
+【机构名称】[薛瞧瞧]沈阳师范大学.学前与初等教育学院/[梁美玉]沈阳师范大学.学前与初等教育学院/[但菲]沈阳师范大学.学前与初等教育学院
+【第一作者】但菲
+【中图类号】G61
+【年代卷期】2014,(120):3-7
+【关 键 词】教师态度/幼儿情绪/情绪表达
+【基金类别】其它基金/
+【参考文献】
+1.Campos,J.J..Emergent themes in the study of emotional development and emotion regulation.Development Psychology.1989.(3)
+2.Kennedy-Moore,E..Expressing emotion: Myth, realties, and therapeutic strategies.New York:Guilford
+3.徐琴美.9-11岁儿童对失败学习情景的情绪反应和情绪表达研究.心理科学.2005.(2)
+4.Zeman,Janie.Children’s expression of a negative affect: Reasons and methods.Developmental Psychology.1996.(5)
+5.但菲.教师态度、言语指导对3—6岁幼儿坚持性的影响.学前教育研究.2008.(4)
+6.付先全.幼儿教师态度对幼儿影响的观察研究.太原城市职业学院学报.2011.(3)
+7.郑晓云.幼儿任务意识与教师影响因素.教育导刊.2008.(11下)
+8.刘俊.幼儿教师批评幼儿的研究:硕士学位论文:河南大学,2008
+9.崔方方.我国学前教育发展区域不均衡:现状、原因与建议.教育发展研究.2010.(24)
+10.谢蓉.幼儿教师职业倦怠的缓解与职业幸福感的提升.学前教育研究.2011.(6)
+11.Evans,R.I..Men and his ideas.New York:Dutton
+12.荆建华.师幼交往中无意识性别心理与两性和谐教育环境的构建.学前教育研究.2005.(12)
+13.Sadker,Myra.Abolishing Misperceptions About Sex Equity in Education.Theory into practice.1989.(6)
+14.刘文.幼儿心理健康教育发展.北京:中国轻工业出版社
+-----------------------------------------------------------------------
+
+【来源篇名】观察学习对幼儿提问的影响
+【英文篇名】Effects of Observational Learning on Young Children’s Question Asking
+【来源作者】费广洪/汪文娟/赵嘉茹
+【基    金】广东省教育科学“十一五”规划课题(2011TJK359)
+【期    刊】学前教育研究
+【第一机构】深圳大学
+【机构名称】[赵嘉茹]深圳市实验幼儿园./[汪文娟]深圳市南山区蓓蕾幼儿园./[费广洪]深圳大学.师范学院
+【第一作者】费广洪
+【中图类号】G61
+【年代卷期】2014,(120):8-15
+【关 键 词】观察学习/提问/问题解决
+【基金类别】省（市）级基金/
+【参考文献】
+1.费广洪.幼儿的提问:发展及其认知、人格的关系:博士学位论文:北京师范大学,2003
+2.Angelo,V.C..Did you ask a good question today? Alternative cognitive and meta cognitive strategies.Journal of Adolescent & Adult Literacy.1998.(3)
+3.宋振韶.小学4-6年级学生课堂提问的类型特点及其影响因素的研究:博士学位论文:北京师范大学,2002
+4.费广洪.儿童提问的发展特征研究综述.教育理论与实践.2003.(4)
+5.费广洪.幼儿在园提问数量的发展研究.学前教育研究.2003.(7)
+6.An examination of the types of questions asked by the young child. MAI29/03
+7.范玉红.引导儿童在观察中思维.人民教育.1991.(2)
+8.Dorothy,H.E..Problem-based Learning.Lawrence Erlbaum Associates, Publishes
+9.Becker,R.R..Critical role of students’ questions in literacy development.Educational Forum.2000.64(3)
+10.Fenson,L..Role of Perceptual and Conceptual similarity in Category Matching at Age Two Years.Child Development.1988.59
+11.张庆林.小学儿童假设检验思维策略的发展.心理学报.2001.(5)
+12.费广洪.关于儿童提问价值及类型的研究.教育研究与实验.2003.(1)
+13.陈丽君.材料呈现方式对儿童不同领域问题发现的影响.心理科学.2006.(2)
+14.费广洪.鼓励条件下幼儿提问的发展研究.心理发展与教育.2003.(1)
+15.费广洪.幼儿提问类型及策略对其问题解决的影响.心理学探新.2012.(6)
+16.董奇.小学儿童思维规则发展的实验研究.心理科学.2006.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】结构化家庭烹饪活动对幼儿数学学习的影响
+【英文篇名】Children Mathematics Learning In Structured Home Cooking Activities
+【来源作者】史月杰
+【基    金】河北省教育科学“十二五”规划重点课题(13040347-2012-2014)
+【期    刊】学前教育研究
+【第一机构】首都师范大学
+【机构名称】[史月杰]首都师范大学.数学科学学院
+【第一作者】史月杰
+【中图类号】G612
+【年代卷期】2014,(120):16-22
+【关 键 词】数学学习/亲子互动/烹饪活动
+【基金类别】省（市）级基金/
+【参考文献】
+1.刘晶波.1996—2006年我国学前教育领域研究选题的状况与分析——基于三所高校硕士、博士学位论文的研究.学前教育研究.2007.(9)
+2.蒋晨.幼儿园支持性环境的创设.学前教育研究.2013.(2)
+3.周欣.日常生活中父母—儿童互动对儿童数学发展的影响.学前教育研究.2007.(7-8)
+4.张华.家庭生态环境与儿童早期数学认知能力.北京师范大学学报(社会科学版).2005.(3)
+5.Carolyn,R..Factors Affecting Children’s Math Achievement Scores in Preschool:The Faculty of the Curry School of Education University of Virginia,2011
+6.Starkey,P..Enhancing young children’s mathematical knowledge through a pre-kindergarten mathematics intervention.Early Childhood Research Quarterly.2004.(19)
+7.Peters,S..Playing games and learning mathematics: the results of two intervention studies.International Journal of Early Years Education.1998.(1)
+8.Skwarchuk,S.L..How do parents support preschoolers’ numeracy learning experiences at home.Early Childhood Education.2009.(37)
+-----------------------------------------------------------------------
+
+【来源篇名】婴幼儿早期教育参与情况及其对父母教养方式的影响
+【英文篇名】Investigation on the 0-3 Years Old Children’s Early Education
+【来源作者】刘玉娟
+【基    金】全国教育科学规划教育部青年项目(EBA120333)
+【期    刊】学前教育研究
+【第一机构】中国教育科学研究院
+【机构名称】[刘玉娟]中国教育科学研究院.心理与特殊教育研究中心
+【第一作者】刘玉娟
+【中图类号】G61
+【年代卷期】2014,(120):23-28
+【关 键 词】早期教育/0至3岁婴幼儿/父母教养方式
+【基金类别】教育部基金/
+【参考文献】
+1.蔡蓓瑛.0-6岁儿童早期教育观念的调查研究.心理科学.2009.(2)
+2.怀特.出生到3岁:婴幼儿能力发展与早期教育权威指南.北京:京华出版社
+3.张敏.美国发展0-3岁早期教育的经验及启示.宁波大学学报.2012.(7)
+4.王丽莉.0-3岁婴幼儿早教机构指导服务现状的调查与分析——以江苏省张家港市为例.教育测量与评价.2012.(12)
+5.刘金华.上海市早期教养机构师资现状的调查与分析.时代教育.2013.(4)
+6.公桂兰.父母教养方式与儿童焦虑的关系:硕士学位论文:山东师范大学,2006
+7.陈红梅.0-3岁婴幼儿早期教育共同体的建构与保障.学前教育研究.2011.(8)
+8.高敬.早期教育机构质量的重要性、内涵与评价.学前教育研究.2011.(7)
+9.陈里霞.早期教育机构教师队伍建设的探索.中国民族教育.2011.(6)
+10.王娟华.郑州市区0-3岁早期教育机构课程设置研究.河南教育学院学报.2011.(3)
+11.周玉娥.追求卓越的早期教育质量——0ECD早期保教质量调查报告“Starting strong”述评.外国教育研究.2013.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】我国幼儿园师资队伍状况评价指标体系的建构与运用
+【英文篇名】Evaluation of Kindergarten Teachers’ Status in China
+【来源作者】高丙成
+【基    金】中国教育科学研究院公益金集体课题(GY2013002)/教育部哲学社会科学重大攻关项目(10JZD0035)
+【期    刊】学前教育研究
+【第一机构】中国教育科学研究院
+【机构名称】[高丙成]中国教育科学研究院.
+【第一作者】高丙成
+【中图类号】G61
+【年代卷期】2014,(120):29-35
+【关 键 词】幼儿园教师/教师地位/教师政策
+【基金类别】其它基金/教育部基金/
+【参考文献】
+1.高丙成.中国教育综合发展水平研究.教育研究.2014.(12)
+2.UNESCO.Global education digest 2011: comparing education statistics across the world.Montreal:UNESCO Institute for Statistics
+3.经济合作与发展组织.教育概览2012:OECD指标.北京:教育科学出版社
+4.刘占兰.中国学前教育综合发展水平研究.教育研究.2013.(4)
+5.何美.中国中小学教师发展总体处世界中等水平.中国教育报.09.30
+6.杨晓琳.各省份中小学教师发展水平比较研究.教育研究.2013.(10)
+7.高丙成.我国普通高校办学条件的测评研究.大学.2014.(2)
+8.教育部.“入园难”问题初步缓解.中国青年报.03.10
+9.郑富芝.学前教育跨越式发展.北京:人民教育出版社
+10.李天顺.在《3—6岁儿童学习与发展指南》培训班上的讲话.学前教育研究.2012.(12)
+11.黑龙江省教育厅.努力扩大普惠性学前教育资源，加快推进学前教育改革发展.2014
+12.贵州省教育厅.加大省级统筹，破解农村学前教育发展难题.2014
+13.成都市教育局.坚持以公共财政投入为主、以公办和公益性幼儿园为主大力发展学前教育.2014
+14.高丙成.我国普通高中教育综合发展水平研究.教育研究.2014.(9)
+15.易凌云.缩小省际发展差距，促进学前教育公平.中国教育报.04.05
+-----------------------------------------------------------------------
+
+【来源篇名】黑龙江省公办幼儿园教师公开招聘政策及其效果分析
+【英文篇名】On the Kindergarten Teacher Recruitment in Heilongjiang Province
+【来源作者】韩影/邹山丹/王薇
+【基    金】绥化学院2013年教育教学改革项目“公招考试标准下高校学前教育专业课程评价探究”
+【期    刊】学前教育研究
+【第一机构】绥化学院
+【机构名称】[王薇]绥化学院.教育学院/[邹山丹]绥化学院.教育学院/[韩影]绥化学院.教育学院
+【第一作者】韩影
+【中图类号】G61
+【年代卷期】2014,(120):36-40
+【关 键 词】幼儿园教师/公开招聘/学前三年行动计划
+【基金类别】其它基金/
+【参考文献】
+1.黑龙江省人民政府.我省学前教育三年行动计划超额完成新建幼儿园444所.2014
+2..事业单位公开招聘人员暂行规定(中华人民共和国人事部令第6号).2014
+3.林坤燦.特殊教育法规选集.台北:国家图书馆出版社
+4.李升伟.三年行动计划与幼儿教师入职招聘变革——以河北省秦皇岛市为例.教育导刊.2013.(8下)
+5..教育部关于印发《学前教育督导评估暂行办法》的通知(教督[2012]5号).2014
+6.北京市人民政府教育督导室.试点先行，学前教育督导稳步推进.北京教育.2013.(1)
+7.吉林省人民政府教育督导团.关于学前教育三年行动计划实施情况督导评估的通报.吉林教育.2012.(11)
+8.庞丽娟.“省级统筹，以县为主”完善我国学前教育管理体制.教育研究.2013.(10)
+9.中华人民共和国教育部.各级各类学校女教职工、女专任教师数.2014
+10.虞永平.完善体制机制深入推进学前教育三年行动计划.人民教育.2012.(11)
+11.田景正.我国地方学前教育的现有基础与发展定位——基于对12个省市学前教育三年行动计划文本的分析.学前教育研究.2012.(8)
+12.刘占兰.幼儿园教师的专业能力.学前教育研究.2012.(11)
+13..浙江省教育考试院教师招聘笔试服务方案(浙教办人[2010]10号).2014
+-----------------------------------------------------------------------
+
+【来源篇名】幼儿园园长作为课程领导者的历史与变迁——基于北京市某园长课程领导实践的个案研究
+【英文篇名】Development of the Principal As Curriculum Leader
+【来源作者】李敏谊/周晶丽
+【基    金】北京高等学校青年英才计划(YETP0251)
+【期    刊】学前教育研究
+【第一机构】北京师范大学
+【机构名称】[周晶丽]北京师范大学.教育学部/[李敏谊]北京师范大学.教育学部
+【第一作者】李敏谊
+【中图类号】G61
+【年代卷期】2014,(120):41-46
+【关 键 词】幼儿园课程/课程领导/园长
+【基金类别】省（市）级基金/
+【参考文献】
+1.焦爱美.幼儿园园本课程内容的构建研究:硕士学位论文:山东师范大学,2008
+2.Stark,Joan S..Testing a Model of Program Curriculum Leadership.Research in Higher Education.2002.43(1)
+3.欧姿秀.台湾近十五年幼儿园园长领导研究派典转移之探究.幼儿教育年刊.2002.(9)
+4.许玉龄.公立幼儿园园长的工作内容与角色(专题研究成果报告):行政院国科会,2002
+5.邢利娅.幼儿园管理.北京:高等教育出版社
+6.Pless,Nicola M..Understanding Responsible Leadership: Role Identity and Motivational Drivers.Journal of Business Ethics.2007.(74)
+7.杨姝琛.革新幼儿园园长的课程管理模式.内蒙古师范大学学报(教育科学版).2006.(4)
+8.王段霞.园长课程领导的现状与策略研究:硕士学位论文:华东师范大学,2008
+9.杜雪美.园长参与课程管理的实施策略.教育导刊.2010.(2下)
+10.陈慈娟.幼儿园园长课程领导——以一所幼儿园本位课程发展为例:硕士学位论文:台北市立师范学院国民教育研究所,2003
+11.杨姝琛.内蒙古地区幼儿园园长课程管理现状与对策研究:硕士学位论文:内蒙古师范大学,2007
+12.许明珠.幼稚园园长课程领导研究——组织生命周期观点:博士学位论文:国立屏东教育大学教育行政研究所,2007
+13.陈志民.幼稚园园长转型领导与学校效能之研究——以中台湾为例:硕士学位论文:朝阳科技大学幼儿保育系,2004
+14.郭芳辰.幼稚园园长课程领导与教师教学效能之研究:硕士学位论文:朝阳科技大学幼儿保育系,2005
+15.高立文.半边天——女性领导人成功经验之探索:硕士学位论文:国立中正大学企业管理研究所,2001
+16.林芬英.女性领导者领导特质与领导风格研究:硕士学位论文:国立中山大学企业管理学系,2002
+17.Paechter,Carrie.Power/knowledge, gender and curriculum change.Journal of Educational Change.2003.4(2)
+18.Seashore,Karen R..Leadership and change in schools: personal reflections over the last 30 years.Journal of Educational Change.2009.(2-3)
+19.罗德.早期教育中的领导力.上海:华东师范大学出版社
+20.吴康宁.教育社会学.北京:人民教育出版社
+21.简楚瑛.课程发展理论与实践.北京:教育科学出版社
+22.虞永平.学前课程的多视角透视.南京:江苏教育出版社
+-----------------------------------------------------------------------
+
+【来源篇名】中瑞两国婴幼儿家庭政策比较
+【英文篇名】Comparing the Family Welfare and Child Care Strategy of China and Sweden
+【来源作者】郑杨
+【基    金】黑龙江省人事厅留学人员科技活动择优资助项目“城市中隔代抚育与核心家庭抚育的国际比较研究”
+【期    刊】学前教育研究
+【第一机构】哈尔滨师范大学
+【机构名称】[郑杨]哈尔滨师范大学.政法学院
+【第一作者】郑杨
+【中图类号】G61
+【年代卷期】2014,(120):47-49
+【关 键 词】家庭政策/育儿功能/家庭福利
+【基金类别】其它基金/
+【参考文献】
+1.李慧英.瑞典:公共政策与女性就业.2005
+2.堂文慧.瑞典育婴休假制度之研究:共同照顾的价值.台湾政大劳动学报.2006.(19)
+3.船桥惠子.育儿战略和家庭政策中的社会性别.家族社会学研究.2005.(2)
+4.何玲.瑞典儿童福利模式及发展趋势研议.中国青年研究.2009.(2)
+5.陈琳.生育保险、女性就业与儿童照料——基于中国微观数据的分析.经济学家.2011.(7)
+6.胡湛.家庭变迁背景下的中国家庭政策.人口研究.2012.(2)
+7.方英.市场转型与中国城市性别秩序分化.江西社会科学.2008.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】示范性幼儿园游戏活动质量评价
+【英文篇名】On the Quality of Games in Model Kindergartens
+【来源作者】杨莉君/罗叶琦
+【基    金】湖南省教育科学“十二五”规划重大招标项目(XJK012ZDZB001)/湖南省教育厅重点资助项目(12A093)
+【期    刊】学前教育研究
+【第一机构】湖南师范大学
+【机构名称】[罗叶琦]湖南师范大学.教育科学学院/[杨莉君]湖南师范大学.教育科学学院
+【第一作者】杨莉君
+【中图类号】G61
+【年代卷期】2014,(120):50-54
+【关 键 词】示范性幼儿园/游戏活动/教育质量
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.Melhuish,E.C..Quest for quality in early day care and preschool experience continues.International Journal of Behavioral Development.2001.(25)
+2.刘占兰.中国幼儿园教育质量评价——十一省市幼儿园教育质量调查.北京:教育科学出版社
+3.陈月文.幼儿园户外活动质量与儿童动作发展的关系.学前教育研究.2013.(4)
+4.刘焱.不同办园体制幼儿园班级教育环境质量比较.学前教育研究.2008.(8)
+5.张莅颖.幼儿园班级管理.北京:高等教育出版社
+6.李鹏举.儿童游戏本质新视角——基于人性的解读.幼教天地.2011.(22)
+7.刘晓东.学前教育学.南京:江苏教育出版社
+-----------------------------------------------------------------------
+
+【来源篇名】接受美学:幼儿艺术教育实施的新视角
+【英文篇名】On Children Art Education from the Perspective of Reception Aesthetics
+【来源作者】王峥
+【基    金】教育部人文社会科学规划基金项目(11YJA880142)
+【期    刊】学前教育研究
+【第一机构】河南大学
+【机构名称】[王峥]河南大学.教育科学学院
+【第一作者】王峥
+【中图类号】G61
+【年代卷期】2014,(120):55-57
+【关 键 词】接受美学/幼儿艺术教育/主体间性
+【基金类别】教育部基金/
+【参考文献】
+1.张汝伦.意义的探究——当代西方释义学.沈阳:辽宁人民出版社
+2.范红.文学作品多元解读的界域.教育科学论坛.2009.(6)
+3.徐胜群.核心坚守与开放空间:当代审美文化影响下的审美教育:硕士学位论文:辽宁师范大学,2008:26
+4.樊遵贤.论“文本空白与未定点”对接受者鉴赏的意义.湖南社会科学.2000.(5)
+5.布伯.我与你.上海:三联书店
+-----------------------------------------------------------------------
+
+【来源篇名】都市文化对儿童教育的影响机制及其历史考察
+【英文篇名】The Influence of Urban Culture on Children Education and Its History
+【来源作者】刘向辉/封蕊
+【基    金】湖南省高等学校科学研究2012年度优秀青年项目(12B013)
+【期    刊】学前教育研究
+【第一机构】长沙师范学院
+【机构名称】[封蕊]长沙师范学院./[刘向辉]长沙师范学院.
+【第一作者】刘向辉
+【中图类号】G61
+【年代卷期】2014,(120):58-60
+【关 键 词】都市/儿童/文化/教育
+【基金类别】省（市）级基金/
+【参考文献】
+1.兰德曼.哲学人类学.贵阳:贵州人民出版社
+2.刘士林.都市文化原理.上海:东方出版中心
+3.康德.康德论教育学.上海:上海人民出版社
+4.斯波义信.中国都市史.北京:北京大学出版社
+5.芒福德,刘易斯.城市发展史——起源、演变和前景.北京:中国建筑工业出版社
+6.杨秀清.敦煌石窟壁画中的古代儿童生活(二).敦煌学研究.2013.(2)
+7.何德兰,泰勒.孩提时代:两个传教士眼中的中国儿童生活.北京:群言出版社
+8.薛梅.清代私塾教育及其在《红楼梦》中的体现.华中农业大学学报(社会科学版).2003.(3)
+9.勒戈夫,雅克.中世纪的知识分子.北京:商务印书馆
+10.阿利埃斯,菲利浦.儿童的世纪:旧制度下的儿童和家庭生活.北京:北京大学出版社
+11.费瑟斯通,迈克.消费文化与后现代主义.南京:译林出版社
+-----------------------------------------------------------------------
+
+【来源篇名】城镇化进程对儿童传统民间体育游戏传承的影响
+【英文篇名】The Influence of Urbanization on Folk Physical Games’ Heritage
+【来源作者】刘大维/曾小玲/胡向红
+【基    金】国家社科基金课题(13TYB024)
+【期    刊】学前教育研究
+【第一机构】湖南第一师范学院
+【机构名称】[胡向红]湖南第一师范学院./[曾小玲]湖南第一师范学院./[刘大维]湖南第一师范学院.
+【第一作者】刘大维
+【中图类号】G61
+【年代卷期】2014,(120):61-63
+【关 键 词】城镇化/传统文化/民间体育游戏
+【基金类别】国家社科基金/
+【参考文献】
+1.马卡连柯.马卡连柯教育文集(下卷).北京:人民教育出版社
+2.罗红辉.幼儿园民间体育游戏存在的问题与解决对策.学前教育研究.2012.(6)
+3.陶行知.陶行知教育文选.北京:教育科学出版社
+4.克伯屈.教学方法原理.北京:人民教育出版社
+5.张圣华.追寻近代教育大师.北京:教育科学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】基于支撑平台的学前教育人才培养探索
+【英文篇名】On the Training Model of Preschool Education Based on Supporting Platforms
+【来源作者】陈凤玉
+【基    金】福建省教育厅教育教学改革2011年度项目(83)
+【期    刊】学前教育研究
+【第一机构】福建幼儿师范高等专科学校
+【机构名称】[陈凤玉]福建幼儿师范高等专科学校.
+【第一作者】陈凤玉
+【中图类号】G61
+【年代卷期】2014,(120):64-66
+【关 键 词】学前教育/专业教育/培养质量
+【基金类别】其它基金/
+【参考文献】
+1.代金平.产学研合作视域下的高校创新人才培养模式研究.重庆邮电大学学报(社会科学版).2013.(5)
+2.肖伸平.创建高职现代教育教学平台的实践与体会.中国职业技术教育.2004.(26)
+3.贺永琴.云技术在幼儿教师实践训练中的应用.学前教育研究.2013.(12)
+4.李志义.谈高水平大学如何构建本科培养模式.中国高等教育.2007.(3)
+5.马陆婷.开放是大学的本质属性.辽宁教育研究.2008.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】在幼儿园文化建设中实施社会价值观教育的意义与策略
+【英文篇名】On the Value Education for Children
+【来源作者】马春玉
+【基    金】中国学前教育研究会“十二五”立项课题(2011-YB-144)/浙江省教育科学“十二五”规划课题(SC61)/宁波市哲学社会科学规划课题(G14JY-11)
+【期    刊】学前教育研究
+【第一机构】浙江宁波宝韵音乐幼儿园
+【机构名称】[马春玉]浙江宁波宝韵音乐幼儿园.
+【第一作者】马春玉
+【中图类号】G61
+【年代卷期】2014,(120):67-69
+【关 键 词】社会价值/价值观教育/园所文化
+【基金类别】其它基金/省（市）级基金/
+【参考文献】
+1.马春玉.幼儿园多元文化教育浅探.学前教育研究.2007.(6)
+2.习近平.核心价值观要在落细落小落实上下功夫.新华每日电讯.02.26
+3.刘立华.文化自觉的发展意蕴研究.理论月刊.2014.(1)
+4..把核心价值观融入国民教育全过程.人民日报.01.17
+5.张燕.美国学校核心价值观教育的方法及启示.人民教育.2013.(22)
+6.袁静.幼儿园提升环境价值的策略.学前教育研究.2012.(11)
+-----------------------------------------------------------------------
+
