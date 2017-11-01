@@ -10,7 +10,8 @@ CSI
 
 
 APC 婴儿数据／恒河幼猴
-==concept==
+==concept（2字段）==
+
 different temporal patterns 
 时间分布模式
 the development of the amygdala	脑杏仁体的发展
@@ -41,7 +42,7 @@ ICF Children and Youth(ICF-CY)
 irritability and fearfulness
 Parental spatial input
 
-==People==
+==People（3字段）==
 Name	Alias	Affiliate	Photo
 毕彦超	Yanchao Bi/Bi YC	认知神经科学与学习国家重点实验室@bnu	
 李甦	Li S	CCRL@cas	
@@ -75,7 +76,7 @@ HBEL	Human Brain Electrophysiology Laboratory@M-LSA	Bill Gehring	http://www.gehr
 APA	American Psychology Association	http://www.apa.org/
 
 
-==Journal==
+==Journal（3字段）==
 Name	cover	Site/RSS
 The Journal of Neuroscience/J. Neurosci	1	http://www.jneurosci.org/rss/current.xml
 Child Development/李甦	1	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1467-8624
