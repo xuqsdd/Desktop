@@ -4,7 +4,7 @@
 *.dylib
 *.m4a
 *.mp3
-
+*.jpg
 
 # Test binary, build with `go test -c`
 *.test
