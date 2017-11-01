@@ -29,6 +29,7 @@ ssh-keygen -t rsa -C "xx@xx"	工作目录下生成.ssh文件夹存放ssh密钥�
 git remote add x1 git@github.com:user/x2	将远程x2关联至本地并取名x1
 git push -u x1 master	将本地master推送至x1=远程x2|-u为首次强推？
 git clone git@github.com:user/rep	克隆github上的rep到本地
+git-scm.com	git official site
 different temporal patterns 
 时间分布模式
 the development of the amygdala	脑杏仁体的发展
