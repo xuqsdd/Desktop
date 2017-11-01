@@ -11,7 +11,24 @@ CSI
 
 APC 婴儿数据／恒河幼猴
 ==concept（2字段）==
-
+git安装@win	已打包的exe名为msysgit
+git注册	git config --global user.name "name"|git config --global user.email "xx@xx"
+pwd	显示当前目录
+git init	将当前目录初始化为repos.
+git add xx	将工作区working的xx添加至暂存区staged
+git commit -m "comments"	将暂存区stage写入至repos.
+git status	查看repos的working/staged状态
+git diff xx|git diff HEAD --xx	比较xx的working/staged差异|UNIX diff命令结果语法
+git log --pretty=oneline	过往HEAD历史清单
+git reset --hard HEAD^|HEAD_ID	重置HEAD向上|历史HEAD_ID
+git reflog	HEAD_ID历史变更记录
+git checkout --xx	文件xx的重置，回退窗口内的修改
+git reset HEAD xx	文件xx的HEAD重置，撤git add
+git rm xx	删git库文件
+ssh-keygen -t rsa -C "xx@xx"	工作目录下生成.ssh文件夹存放ssh密钥对
+git remote add x1 git@github.com:user/x2	将远程x2关联至本地并取名x1
+git push -u x1 master	将本地master推送至x1=远程x2|-u为首次强推？
+git clone git@github.com:user/rep	克隆github上的rep到本地
 different temporal patterns 
 时间分布模式
 the development of the amygdala	脑杏仁体的发展
