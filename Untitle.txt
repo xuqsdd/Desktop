@@ -1,13 +1,34 @@
-关于育儿有这样一个热议话题：孩子在幼儿园或陌生人面前不敢表达自己，该怎样引导？
-在孩子刚刚入园，或者您带着孩子外出参加朋友聚会的时候，经常会发现孩子不敢在众人面前表达、见到陌生人会表现紧张不安，可能还会不敢大声音讲话。遇到这些种种的现象，作为家长一定感到很苦恼，不知道该怎样引导孩子，让他（她）更大胆，更加敢于表达自己的想法？
-
-以下为个人观点，谨作记录：
-（1）背景知识。霍华德·加德纳是世界著名教育心理学家，最为人知的成就是“多元智能理论”，被誉为“多元智能理论”之父。
-加德纳认为过去对智力的定义过于狭窄，未能正确反映一个人的真实能力。他在《心智的架构》(Frames of Mind, Gardner, 1983)这本书里提出，人类的智能至少可以分成七个范畴(后来增加至八个)：
-1.语言 (Verbal/Linguistic) 2.逻辑 (Logical/Mathematical) 3.空间 (Visual/Spatial) 4.肢体运作 (Bodily/Kinesthetic) 5.音乐 (Musical/Rhythmic)6.人际 (Inter-personal/Social) 7.内省 (Intra-personal/Introspective)8.自然探索 (Naturalist，加德纳在1995年补充) 9.生存智慧（Existential Intelligence，加德纳后来又补充） 另外，有其它学者从内省智能分拆出“灵性智能”(spiritual intelligence)。 
-（2）个人解读。不讨论加德纳的理论偏差，至少他提供了一个思路，即，我们应该从多个维度来衡量人的发展。具体到儿童的自我表达这一维度上，完全有可能出现的是：孩子在自我表达上很强大，但表达起来全然不顾他人的感受，也就是说，同理心这方面发展得特别弱。那么，您还会一味地认为让孩子“勇敢”自我表达是必要的么？
-（3）儿童观的演化及文化价值观的变迁。在以前，我们会认为儿童（群众）只是被动的学习和接受，甚至于我们想让儿童（群众）成为什么样的人，他就能／应该成为什么样的人。至于现在，我们可能已经接受，所有的人都是独立且丰富的个体，他愿意成为怎样的人，就可以选择成为怎样的人。具体到更小一点的儿童，我们也意识到儿童除了被动的接受之外，也仍然可以主动的选择和探索，这意味着成人需要给予儿童比以前更加充分的了解与尊重。在接受他人具有选择性的同时，这也默认承认了多样性的合理性，既然如此，我们似乎就有理由认为，“孩子在幼儿园或陌生人面前是可以选择不表达自己的”，这不是孩子“敢不敢”的问题，而是孩子”愿意不愿意“的问题。
-（4）儿童的社会化表达。个人持有的观点是，人作为社会化的动物，是需要对于社会进行自我表达的。表达是社会性发展的外化形式，是以内在需要为基础的。当内在有迫切动机时，表达就会自然发生。具体到儿童身上，我们在“指责”儿童不敢表达自己的同时，可能需要自问，我们给儿童提供的幼儿园环境或陌生人情景是适合儿童进行自我表达的么？我们是的是在尊重孩子的自我表达吗？还是，我们想让孩子表达，他就得表达？我们不想让孩子表达，他就得乖乖听话呆着？
-（5）儿童的语言表达。不可否认，有些儿童（成人）会存在语言表达上的障碍，如果有负责任的临床干预，这种表达障碍是可以克服的。但是，如果不能科学地找到语言表达障碍的成因和应对方式，鲁莽的干预可能会加重这样的症状。相比之下，那些毫无育儿积极性的“散养”做法，反而避免了这种“加重障碍”的可能性。此外，承接加德纳的多元智能假说和多样性的前提，儿童的表达并非只有语言一种形式，肢体动作、表情、绘画作品，情绪流露都是表达。同时，表达也渴望回应，如果没有反馈，孩子的表达反而成为一支射出却落在地上的箭。不爱说的孩子，并非都是语言能力弱，社会性差，有些时候往往是内省智能强大，偏向于观察分析，也就是在默默审视。尊重不同智能类型，支持多元发展。这世上有人热情开朗爱说话，也就有人内向文静话很少，因为大家不同，世界才丰富多彩。
-
-如果希望引导孩子更多表达，那么首先应该要找到孩子真正有兴趣的点，创造有利于其表达的情景，引发其内在动机。大人自己的真诚态度和贴合孩子理解的表达方式，都会成为很好的范例，让孩子感受到真实沟通的需求以及方法。
+git安装@win	已打包的exe名为msysgit
+git注册	git config --global user.name "name"|git config --global user.email "xx@xx"
+pwd	显示当前目录
+git init	将当前目录初始化为repos.
+git add xx	将工作区working的xx添加至暂存区staged
+git commit -m "comments"	将暂存区stage写入至repos.
+git status	查看repos的working/staged状态
+git diff xx|git diff HEAD --xx	比较xx的working/staged差异|UNIX diff命令结果语法
+git log --pretty=oneline	过往HEAD历史清单
+git reset --hard HEAD^|HEAD_ID	重置HEAD向上|历史HEAD_ID
+git reflog	HEAD_ID历史变更记录
+git checkout --xx	文件xx的重置，回退窗口内的修改
+git reset HEAD xx	文件xx的HEAD重置，撤git add
+git rm xx	删git库文件
+ssh-keygen -t rsa -C "xx@xx"	工作目录下生成.ssh文件夹存放ssh密钥对
+git remote add x1 git@github.com:user/x2	将远程x2关联至本地并取名x1
+git push -u x1 master	将本地master推送至x1=远程x2|-u为首次强推？
+git clone git@github.com:user/rep	克隆github上的rep到本地
+git-scm.com	git official site
+different temporal patterns 	时间分布模式/Spatialtemporal patterns are patterns that occur in a wide range of natural phenoma and are characterized by a spatial and a temporal patterning. 
+the development of the amygdala	脑杏仁体的发展/杏仁核（英语：Amygdaloid）又名杏仁体，不是基底核的一部分，位于侧脑室下角前端的上方，海马体旁回沟的深面，与尾状核的末端相连/The amygdala; also corpus amygdaloideum; is one of two almond-shaped groups of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.
+parental mind-mindedness	将心比心（心理对心理）／三心二意／The first type of double-mindedness, that of willing for the sake of reward or out of fear of punishment, is akin to the distinction between intrinsic and extrinsic values
+does prosody make the difference	音调规律会带来区别么／韵律／Prosody (linguistics), the suprasegmental characteristics of speech, like intonation, rhythm and stress／在语言学中，韵律（英语：prosody）指的是讲话的过程中的不独立的发声片段（元音、辅音）但是却是音节等较大语言单位的性质。这些韵律在语言中有控制语调、音调、强调和节奏的功能。
+a developmental psychopathology perspective	发展精神病理学／Psychopathology[a] is the scientific study of mental disorders, including efforts to understand their genetic, biological, psychological, and social causes; effective classification schemes (nosology); course across all stages of development; manifestations; and treatment. The term may also refer to the manifestation of behaviors that indicate the presence of a mental disorder.／精神病理学（英语：Psychopathology）是一个专门研究精神失调、精神压力及非正常或错误习得行为的学科。本科常见于精神病学，探究精神病的患病成因；至于在非医学的心理学方面，通常都把相关范畴划为变态心理学。
+precursors, predictors and patterns 	前身、预测因子和模式
+significant cortisol reactivity	显著皮质醇反应／Cortisol is a steroid hormone, in the glucocorticoid class of hormones. When used as a medication, it is known as hydrocortisone.／皮质醇（英语：cortisol），又译成可的松，属于肾上腺分泌的肾上腺皮质激素之中的糖皮质激素，在应付压力中扮演重要角色，故又被称为“压力荷尔蒙”。皮质醇会提高血压、血糖水平和产生免疫抑制作用。在药理学，人工合成的皮质醇称作氢羟肾上腺皮质素（hydrocortisone），除了补充皮质醇不足外，也会用作治疗过敏症和发炎。最初被用作治疗类风湿性关节炎时，皮质醇被称作Compound E（合成物E）。
+Still Face Paradigm(SFP)	“冷面”范式／
+peer victimization	同伴欺侮／同伴侵害／Peer victimization is the experience among children of being a target of the aggressive behavior of other children, who are not siblings and not necessarily age-mates.／同伴侵害(peer victimization)是个体遭受同伴的身体、言语、财物以及人际关系方面攻击的经历。
+inhibitory control	抑制控制／抑制控制（英语：Inhibitory control），是指个体抑制住自己的冲动、本能的认知过程，以便执行与自己预期目标相符的有关行为。／Inhibitory control, also known as response inhibition, is a cognitive process that permits an individual to inhibit their impulses and natural, habitual, or dominant behavioral responses to stimuli (a.k.a. prepotent responses) in order to select a more appropriate behavior that is consistent with completing their goals.
+testosterone reactivity	睾酮反应／Testosterone is the primary male sex hormone and an anabolic steroid.／睾酮（又称睾固酮、睾丸素、睾丸酮或睾甾酮、睾脂酮）是一种类固醇激素，由男性的睾丸或女性的卵巢分泌，肾上腺亦分泌少量睾酮。
+oral contraception	口服避孕药／Oral contraceptives, abbreviated OCPs, also known as birth control pills, are medications taken by mouth for the purpose of birth control.
+limited movement repertoire	有限社会运动剧目／Repertoire of contention refers, in social movement theory, to the set of various protest-related tools and actions available to a movement or related organization in a given time frame.
+International Classification of Functioning, Disability and Health(ICF)	国际健康功能与身心障碍分类（英语：International Classification of Functioning, Disability, and Health，简称ICF），这项健康分类系统经过世界卫生组织九年的修订协调，终于在2001年5月22日批准了国际通用的版本。/The International Classification of Functioning, Disability and Health (ICF) is a classification of the health components of functioning and disability.
+ICF Children and Youth(ICF-CY)	国际健康功能与身心障碍分类：孩童与青少年版(International Classification of Functioning, Disability and Health for Children and Youth，简称ICF-CY)以国际健康功能与身心障碍分类(ICF)的概念架构作为基础，采用ICF的架构与类别，但ICF-CY扩大了ICF的范围，并增加ICF中没有的附加细节，以统一与标准化的语言，记录婴幼儿、孩童与青少年在身体功能、构造与其相关环境因素的活动限制(Activity limitations)与参与局限(Participation Restrictions)。
