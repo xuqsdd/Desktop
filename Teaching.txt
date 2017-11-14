@@ -9,7 +9,7 @@ http://www.ximalaya.com/album/8119955.xml
 https://itunes.apple.com/cn/podcast/松树归雩/id1245592245?mt=2
 
 8周两节连堂-16周
-主题教学：(1)主动获取信息：wechat文字+podcast声音(2)TV+syncthing+adb(3)anki(4)scratch(5)appinventor(6)citnetexplorer(7)SPSS(8)markdown（9）weixin小程序
+主题教学：(1)主动获取信息：wechat文字+podcast声音(2)TV+syncthing+adb(3)anki(4)scratch(5)appinventor(6)citnetexplorer(7)SPSS(8)markdown（9）weixin小程序(a)HTML 5编程（b)python脚本爬虫
 
 单反数码摄影
 (>75)光线来调整光圈、快门...／ 纽约摄影学院 教材／／桌面端Photoshop／  抛弃说步骤的教材／  深入了解图像本质－理论

@@ -7,10 +7,62 @@ CSI
 
 17Oct27_EarlyLiteracyChinese@WoS = 您的检索: 主题: (early literacy chinese) 时间跨度: 1980-2017。 索引: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, ESCI, CCR-EXPANDED, IC。
 
+PT	AU	BA	BE	GP	AF	BF	CA	TI	SO	SE	BS	LA	DT	CT	CY	CL	SP	HO	DE	ID	AB	C1	RP	EM	RI	OI	FU	FX	CR	NR	TC	Z9	U1	U2	PU	PI	PA	SN	EI	BN	J9	JI	PD	PY	VL	IS	PN	SU	SI	MA	BP	EP	AR	DI	D2	PG	WC	SC	GA	UT	PM	OA	HC	HP	DA
 
+中国科学引文数据库（Chinese Science Citation Database，简称CSCD）
+http://sciencechina.cn/cscd_source.jsp
+儿童早期阅读与学习研究中心
+http://ccrl.psych.ac.cn:8081/
 
 APC 婴儿数据／恒河幼猴
 ==concept（2字段）==
+SU=主题,TI=题名,KY=关键词,AB=摘要,FT=全文,AU=作者,FI=第一责任人,AF=机构,JN=文献来源, RF=参考文献，YE=年,FU=基金,CLC=中图分类号,SN=ISSN,CN=统一刊号,IB=ISBN ,CF=被引频次
+
+
+PT	出版物类型(Publish Type)
+AU	作者(Author)
+
+FN	文件名(File Name)
+EM	电子邮件地址(Email)
+PY	出版年(Publish Year)
+VR	版本号(Version)
+FU	基金资助机构和授权号(Finance Unit)
+VL	卷(Volume)
+FX	基金资助正文(Finance Extension)
+IS	期(Issue)
+
+CR	引用的参考文献(Cited Reference)
+BP	开始页(Begin Page)
+AF	作者全名(Affiate?)
+NR	引用的参考文献数(Number of Reference)
+EP	结束页(End Page)
+TI	标题(Tilte)
+TC	被引频次计数(WoS核心合集)(Time of Cited)
+DI	数字对象标识符 (DOI)
+SO	来源出版物(Source)
+Z9	被引频次合计（WoS核心、BCI 和 CSCD）(???)
+PG	页数(Pages)
+LA	语种(Language)
+PU	出版商(Publisher)
+WC	Web of Science 类别(WoC Classfied)
+DT	文献类型(Data Type)
+PI	出版商所在城市
+SC	研究方向
+DE	关键词
+PA	出版商地址(Publisher Address)
+GA	文献传递号
+ID	扩展关键字
+SN	国际标准期刊号 (ISSN)
+UT	入藏号
+AB	摘要(Abstract)
+J9	来源文献名称缩写
+ER	记录结束(End of Record)
+C1	作者地址
+JI	ISO 来源文献名称缩写
+EF	文件结束(end of File)
+RP	通讯作者地址
+PD	出版日期(Publisher Date)
+
 git安装@win	已打包的exe名为msysgit
 git注册	git config --global user.name "name"|git config --global user.email "xx@xx"
 pwd	显示当前目录
@@ -30,35 +82,21 @@ git remote add x1 git@github.com:user/x2	将远程x2关联至本地并取名x1
 git push -u x1 master	将本地master推送至x1=远程x2|-u为首次强推？
 git clone git@github.com:user/rep	克隆github上的rep到本地
 git-scm.com	git official site
-different temporal patterns 
-时间分布模式
-the development of the amygdala	脑杏仁体的发展
-parental mind-mindedness	将心比心（心理对心理）
-does prosody make the difference	音调规律会带来区别么
-prosodic aspects	音调方面
-a developmental psychopathology perspective	发展精神病理学
-precursors, predictors and patterns 前身、预测因子和模式
-significant cortisol reactivity	显著皮质醇反应
-an epistemic operator 	情态算子
-essentialist and normative accounts
-measurement invariance conventions
-peer victimization
-inhibitory control
-heterotypic continuity
-testosterone reactivity
-oral contraception
-basal cortisol
-limited movement repertoire
-Still Face Paradigm(SFP)
-the most social bids
-inhibitory control trajectory
-multisensory redundancy
-cortical development with fNIRS
-augmentative and alternative communication
-International Classification of Functioning, Disability and Health(ICF)
-ICF Children and Youth(ICF-CY)
-irritability and fearfulness
-Parental spatial input
+different temporal patterns 	时间分布模式/Spatialtemporal patterns are patterns that occur in a wide range of natural phenoma and are characterized by a spatial and a temporal patterning. 
+the development of the amygdala	脑杏仁体的发展/杏仁核（英语：Amygdaloid）又名杏仁体，不是基底核的一部分，位于侧脑室下角前端的上方，海马体旁回沟的深面，与尾状核的末端相连/The amygdala; also corpus amygdaloideum; is one of two almond-shaped groups of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans.
+parental mind-mindedness	将心比心（心理对心理）／三心二意／The first type of double-mindedness, that of willing for the sake of reward or out of fear of punishment, is akin to the distinction between intrinsic and extrinsic values
+does prosody make the difference	音调规律会带来区别么／韵律／Prosody (linguistics), the suprasegmental characteristics of speech, like intonation, rhythm and stress／在语言学中，韵律（英语：prosody）指的是讲话的过程中的不独立的发声片段（元音、辅音）但是却是音节等较大语言单位的性质。这些韵律在语言中有控制语调、音调、强调和节奏的功能。
+a developmental psychopathology perspective	发展精神病理学／Psychopathology[a] is the scientific study of mental disorders, including efforts to understand their genetic, biological, psychological, and social causes; effective classification schemes (nosology); course across all stages of development; manifestations; and treatment. The term may also refer to the manifestation of behaviors that indicate the presence of a mental disorder.／精神病理学（英语：Psychopathology）是一个专门研究精神失调、精神压力及非正常或错误习得行为的学科。本科常见于精神病学，探究精神病的患病成因；至于在非医学的心理学方面，通常都把相关范畴划为变态心理学。
+precursors, predictors and patterns 	前身、预测因子和模式
+significant cortisol reactivity	显著皮质醇反应／Cortisol is a steroid hormone, in the glucocorticoid class of hormones. When used as a medication, it is known as hydrocortisone.／皮质醇（英语：cortisol），又译成可的松，属于肾上腺分泌的肾上腺皮质激素之中的糖皮质激素，在应付压力中扮演重要角色，故又被称为“压力荷尔蒙”。皮质醇会提高血压、血糖水平和产生免疫抑制作用。在药理学，人工合成的皮质醇称作氢羟肾上腺皮质素（hydrocortisone），除了补充皮质醇不足外，也会用作治疗过敏症和发炎。最初被用作治疗类风湿性关节炎时，皮质醇被称作Compound E（合成物E）。
+Still Face Paradigm(SFP)	“冷面”范式／
+peer victimization	同伴欺侮／同伴侵害／Peer victimization is the experience among children of being a target of the aggressive behavior of other children, who are not siblings and not necessarily age-mates.／同伴侵害(peer victimization)是个体遭受同伴的身体、言语、财物以及人际关系方面攻击的经历。
+inhibitory control	抑制控制／抑制控制（英语：Inhibitory control），是指个体抑制住自己的冲动、本能的认知过程，以便执行与自己预期目标相符的有关行为。／Inhibitory control, also known as response inhibition, is a cognitive process that permits an individual to inhibit their impulses and natural, habitual, or dominant behavioral responses to stimuli (a.k.a. prepotent responses) in order to select a more appropriate behavior that is consistent with completing their goals.
+testosterone reactivity	睾酮反应／Testosterone is the primary male sex hormone and an anabolic steroid.／睾酮（又称睾固酮、睾丸素、睾丸酮或睾甾酮、睾脂酮）是一种类固醇激素，由男性的睾丸或女性的卵巢分泌，肾上腺亦分泌少量睾酮。
+oral contraception	口服避孕药／Oral contraceptives, abbreviated OCPs, also known as birth control pills, are medications taken by mouth for the purpose of birth control.
+limited movement repertoire	有限社会运动剧目／Repertoire of contention refers, in social movement theory, to the set of various protest-related tools and actions available to a movement or related organization in a given time frame.
+International Classification of Functioning, Disability and Health(ICF)	国际健康功能与身心障碍分类（英语：International Classification of Functioning, Disability, and Health，简称ICF），这项健康分类系统经过世界卫生组织九年的修订协调，终于在2001年5月22日批准了国际通用的版本。/The International Classification of Functioning, Disability and Health (ICF) is a classification of the health components of functioning and disability.
+ICF Children and Youth(ICF-CY)	国际健康功能与身心障碍分类：孩童与青少年版(International Classification of Functioning, Disability and Health for Children and Youth，简称ICF-CY)以国际健康功能与身心障碍分类(ICF)的概念架构作为基础，采用ICF的架构与类别，但ICF-CY扩大了ICF的范围，并增加ICF中没有的附加细节，以统一与标准化的语言，记录婴幼儿、孩童与青少年在身体功能、构造与其相关环境因素的活动限制(Activity limitations)与参与局限(Participation Restrictions)。
 
 ==People（3字段）==
 Name	Alias	Affiliate	Photo
