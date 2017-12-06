@@ -7,38 +7,14 @@ http://xuqsdd.lofter.com/post/1d9b37c8_92419de
 新浪微博账号=喜马拉雅播客账号=苹果播客账号=松树归雩，欢迎关注并留言交流^ _ ^
 http://www.ximalaya.com/album/8119955.xml
 https://itunes.apple.com/cn/podcast/松树归雩/id1245592245?mt=2
+/Users/user/Library/Application Support/Anki2/User 1
+
 
 8周两节连堂-16周
-主题教学：(1)主动获取信息：wechat文字+podcast声音(2)TV+syncthing+adb(3)anki(4)scratch(5)appinventor(6)citnetexplorer(7)SPSS(8)markdown（9）weixin小程序(a)HTML 5编程（b)python脚本爬虫
+主题教学：(1)主动获取信息：wechat文字+podcast声音(2)TV+syncthing+adb(3)anki(4)scratch(5)appinventor(6)citnetexplorer(7)SPSS(8)markdown（9）weixin小程序(a)HTML 5编程（b)python脚本爬虫(c)google chrome浏览器+插件+应用市场(d)智能TV
 
-单反数码摄影
-(>75)光线来调整光圈、快门...／ 纽约摄影学院 教材／／桌面端Photoshop／  抛弃说步骤的教材／  深入了解图像本质－理论
+apkpure.com＝下载任意地区－国家的google play应用
 
-3)iOS＝追踪优秀的应用编辑-推荐网站（推送限时免费应用）／  负责推荐应用的应用App／  少数派 sspai／  小众软件／  爱应用／  appshopper.com 老牌／educational apps for kids／(>85)Feed阅读器+RSS内容源／／http://sspai.com/feed
-  
-2)利用应用市场挑选图像应用／Android：／  a)不存在水军刷分；／  b)避免利益相关；／  c)连带推荐类似的优秀应用。／  酷安＝coolapk＝小众／   snapseed=移动端PS／  wandoujia=豌豆荚(云安装)／  官方市场：google play／   MX Player=神器 掉帧／Intellijoy ／ apkpure.com＝下载任意地区－国家的google play应用
-
-图像：美图/修图<贴纸<拼图<裁图／  桌面端、网页端、移动端／1)搜索引擎＋知乎(zhihu.com)／比较：美图秀秀 vs. Fotor／  浏览高回答数、高点赞数的同类问答帖子／  ／  ／  修图软件哪个好 site:zhihu.com／  ／美图秀秀、／／桌面端修图＝Photoshop＝后期平面设计
-
-
-第3周／14级7班／图形=》制图（二维、三维）／／截屏》屏幕录制＝给电脑小白演示如何操作／ Win: PrintScreen／ Mac: Keyboard>shortcuts>screenshots／ 键盘》快捷方式》屏幕截屏／／桌面端修图=PhotoShop／  剖析图像本质(直方图/通道...)／  避免看步骤
-
-3）应用编辑-推荐网站(限免)／>75: 编辑推荐应用(限免)／ educational apps for kids／ 爱应用、小众软件、少数派...／>85: Feed/RSS阅读器＋自己整理的RSS订阅源
-
-2)移动应用场景／  水军／利益相关/延伸检索体验／ Android：／  coolapk酷安=小众／>75:豌豆荚wandoujia=国产play(云安装=AppleID)／>85:正规市场＝google play／>75:移动端PS=Snapseed／ apkpure.com(号称能按国家-地区下载play的任意应用)／       ／ iOS=应用编辑-推荐网站(限免)
-
-1)搜索引擎+zhihu.com／／／图形图像＝》单反照相／>75：／  单反穷三代／玩器材／  了解摄影技术／  纽约摄影学院 classic／  白平衡、光圈、快门、景深／  ／屏幕截取－录制：远程辅导电脑小白进行操作／>60:／移动端：按电源键/音量向下键／  手机有官方论坛／桌面端：／ Windows: PrintScreen／ Mac: 调整键盘快捷键／>75: 录制屏幕操作步骤／Mac: Screen Recorder Studio／Windows: 绿色免安装
-  
-3)获取最新技术信息／>85：Feed 订阅 Feed/RSS阅读器=>收集RSS订阅源=>定时刷新浏览／ http://sspai.com/feed／ 例子：Chrome平台＋Feedbro扩展crx／应用编辑网站：爱应用、小众软件、少数派、异次元
-
-2)移动端的应用市场／ Android：／>85：google play(云安装)／比较知道一个很好的应用=>找play下载网站／>75：coolapk 酷安－小众／>75：豌豆荚wandoujia／ snapseed=移动端Photoshop／／ iOS:Apple账户＝购买行为／>75：／ 应用编辑推荐网站／ 限时免费推荐网站/应用／www.appshopper.com／／水军刷分／／祛痘/磨皮＝美图／拼图＝美图／裁图－拼图－美图／安装版/网页版/移动版／ fotor.com
-1)知乎zhihu.com：阅读回答、点赞比较多的问答帖子／>75：使用比较多个同类修图应用／／Photoshop=>／  技术＝工具／  技术/工具背后的原理＝>用什么角度来观察图像／  ＝>色彩空间、曲线／／幼儿园实用教育技术／14z1，第3周／图形图像／／>85技术实践／>75教学反思、讨论／>60笔记
-________________
-应用编辑网站
-
-不使用MS Office的情况下，如何最快捷地阅读－编辑／Word(doc/docx)／Excel(xls/xlsx)／PowerPoint(ppt/pptx)／／1从百度云盘下载Office文档例子／x  www.baidu.com／www.sogou.com／filetype:ppt／site:pan.baidu.com／=>PDF／／2找在线编辑网站编辑／上传文件》在线编辑》下载另存／问专家：zhidao》jingyan》zhihu／google docs/zoho/baihui／／3绿色免安装WPS-Windows平台／wps.cn／site:pan.baidu.com／／4移动端预览Office文件｜蓝牙／积累并消费一些儿童教育的资源（图画书、绘本 pdf ppt）／所有Office文档打印成PDF文件(PDF是通用的跨平台文档－》IE/Chrome/Firefox浏览器直接预览)
-
-扁平化／向下兼容／80-20法则／Microsoft／MS／Office=Word+Excel+PPT／／15/9/21/14级专科6班／第2周／教学办公／／Chrome+Extensions+FeedBro
 
 （第1周）
 《我们去找信息》
