@@ -1,3 +1,13 @@
+tandf
+    <outline type="rss" text="SSSR" xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=hssr20" isFulltext="1" />
+    <outline type="rss" text="Early Educ Dev" xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=heed20" isFulltext="1" />
+    <outline type="rss" text="EARLY EDUCATION AND DEVELOPMENT " xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2h2&jc=heed20&type=etoc&feed=rss" isFulltext="1" />
+    <outline type="rss" text="EUROPEAN EARLY CHILDHOOD EDUCATION RESEARCH JOURNAL " xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=124&jc=recr20&type=etoc&feed=rss" isFulltext="1" />
+    <outline type="rss" text="The Quarterly Journal of Experimental Psychology" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2k5&jc=pqje20&type=etoc&feed=rss" isFulltext="1" />
+    <outline type="rss" text="Cognition & Instruction" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=xr&jc=hcgi20&type=etoc&feed=rss" isFulltext="1" />
+    <outline type="rss" text="Journal of the Learning Sciences" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2he&jc=hlns20&type=etoc&feed=rss" isFulltext="1" />
+    <outline type="rss" text="Educational Psychologist" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=xv&jc=hedp20&type=etoc&feed=rss" isFulltext="1" />
+
 <?xml version="1.0" encoding="utf-8" ?>
 <opml version="2.0">
 <head>
@@ -47,6 +57,7 @@
     <outline type="rss" text="J Marr Fam" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1741-3737" isFulltext="1" />
     <outline type="rss" text="Child Dev Perspect" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1750-8606" isFulltext="1" />
 
+
     <outline type="rss" text="J EARLY INTERV" xmlUrl="http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Djeib%26type%3Detoc%26feed%3Drss" isFulltext="1" />
     <outline type="rss" text="Int J Behav Dev" xmlUrl="http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Djbda%26type%3Detoc%26feed%3Drss" isFulltext="1" />
     <outline type="rss" text="Am Educ Res J" xmlUrl="http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Daera%26type%3Detoc%26feed%3Drss" isFulltext="1" />
@@ -65,7 +76,7 @@ Wiley @ Tue
     <outline type="rss" text="Child Dev Perspect" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1750-8606" isFulltext="1" 
 />
 
-sage @ Wed
+sage @ Wed = 废
     <outline type="rss" text="J EARLY INTERV" xmlUrl="http://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jeib&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="J EARLY INTERV" xmlUrl="http%3A%2F%2Fjournals.sagepub.com%2Faction%2FshowFeed%3Fui%3D0%26mi%3Dehikzz%26ai%3D2b4%26jc%3Djeib%26type%3Detoc%26feed%3Drss" isFulltext="1" />
 
@@ -81,14 +92,10 @@ Journal of Experimental Psychology: Learning, Memory, and Cognition " @ apa
 
 
 
-springer
-    <outline type="rss" text="Neurosci Bull@springer" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=12264&channel-name=Neuroscience Bulletin" isFulltext="1" />
-    <outline type="rss" text="Reading and Writing@Springer" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11145&channel-name=Reading%2Band%2BWriting" isFulltext="1" />
+springer @ Wed
+    <outline type="rss" text="Neurosci Bull" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=12264&channel-name=Neuroscience Bulletin" isFulltext="1" />
+    <outline type="rss" text="Read Writ" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11145&channel-name=Reading%2Band%2BWriting" isFulltext="1" />
 
-tandf
-    <outline type="rss" text="Journal of the Learning Sciences" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2he&jc=hlns20&type=etoc&feed=rss" isFulltext="1" />
-    <outline type="rss" text="SSSR@T&F" xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=hssr20" isFulltext="1" />
-"The Quarterly Journal of Experimental Psychology"  @ tandfonline
 
 
 
@@ -121,23 +128,17 @@ Cognition and Instruction @ tandf
     <outline type="rss" text="INFANTS AND YOUNG CHILDREN " xmlUrl="http://journals.lww.com/iycjournal/_layouts/OAKS.Journals/feed.aspx?FeedType=MostPopularArticles" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Statistics and Its Application: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=statistics&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Journal of Experimental Psychology: Learning, Memory, and Cognition " xmlUrl="http://content.apa.org/journals/xlm.rss" isFulltext="1" />
-    <outline type="rss" text="Educational Psychologist" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=xv&jc=hedp20&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Psychological Review - Vol 122, Iss 2" xmlUrl="http://content.apa.org/journals/rev.rss" isFulltext="1" />
     <outline type="rss" text="Psychological Bulletin - Vol 141, Iss 3" xmlUrl="http://content.apa.org/journals/bul.rss" isFulltext="1" />
     <outline type="rss" text="early_literacy@googleNews" xmlUrl="https://news.google.com/news?svnum=10&as_scoring=r&hl=zh-CN&tab=wn&%3B%3Bned=ccn&as_drrb=q&as_qdr&as_minm=3&as_mind=30&as_maxm=4&as_maxd=29&aq=f&q=early%2520literacy&ie=UTF-8&output=rss" isFulltext="1" />
-    <outline type="rss" text="Cognition & Instruction" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=xr&jc=hcgi20&type=etoc&feed=rss" isFulltext="1" />
-    <outline type="rss" text="The Quarterly Journal of Experimental Psychology" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2k5&jc=pqje20&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Linguistics: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=linguistics&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Journal of Personality and Social Psychology " xmlUrl="http://content.apa.org/journals/psp.rss" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Anthropology: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sz&jc=anthro&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Neuroscience: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=s2&jc=neuro&type=etoc&feed=rss" isFulltext="1" />
-    <outline type="rss" text="EUROPEAN EARLY CHILDHOOD EDUCATION RESEARCH JOURNAL " xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=124&jc=recr20&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Psychological Methods - Vol 20, Iss 2" xmlUrl="http://content.apa.org/journals/met.rss" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Clinical Psychology: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=0&mi=7273xo&ai=18f&jc=clinpsy&type=etoc&feed=rss" isFulltext="1" />
-    <outline type="rss" text="EARLY EDUCATION AND DEVELOPMENT " xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&mi=hp1zvd&ai=2h2&jc=heed20&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="Journal of Child Language" xmlUrl="http://journals.cambridge.org/data/rss/aggregated/feed_29658_rss.xml" isFulltext="1" />
     <outline type="rss" text="Annual Reviews: Annual Review of Organizational Psychology and Organizational Behavior: Table of Contents" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=orgpsych&type=etoc&feed=rss" isFulltext="1" />
     <outline type="rss" text="J Cogn Neurosci@MIT" xmlUrl="http://www.mitpressjournals.org/action/showFeed?jc=jocn&type=etoc&feed=rss" isFulltext="1" />
-    <outline type="rss" text="Early Educ Dev.@T&F" xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=heed20" isFulltext="1" />
     <outline type="rss" text="Front. Psychol.@frontiersin" xmlUrl="https://www.frontiersin.org/journals/psychology/rss" isFulltext="1" />
     <outline type="rss" text="J. Neurosci@jneurosci" xmlUrl="http://www.jneurosci.org/rss/current.xml" isFulltext="1" />
